@@ -1,0 +1,4007 @@
+<http://x.github.io/event-series> {
+
+<http://x.github.io/event/8902>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- F. P. Jones\n"@en .
+
+<http://x.github.io/event/7927>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "The answer is 42.\n"@en .
+
+<http://x.github.io/event/8657>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Real Programmers don't write in COBOL.  COBOL is for wimpy applications\n"@en .
+
+<http://x.github.io/event/4612>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        But the good ones I've seen\n"@en .
+
+<http://x.github.io/event/2953>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- F. P. Jones\n"@en .
+
+<http://x.github.io/event/1978>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "the continuing viability of Fortran.\n"@en .
+
+<http://x.github.io/event/3139>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Anarchy may not be the best form of government, but it's better than no\n"@en .
+
+<http://x.github.io/event/5517>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Limericks are art forms complex,\n"@en .
+
+<http://x.github.io/event/232>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Only adults have difficulty with childproof caps.\n"@en .
+
+<http://x.github.io/event/6072>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Don't tell any big lies today.  Small ones can be just as effective.\n"@en .
+
+<http://x.github.io/event/3826>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "FLASH!  Intelligence of mankind decreasing.  Details at ... uh, when\n"@en .
+
+<http://x.github.io/event/4381>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Real Programmers don't play tennis, or any other sport that requires you to\n"@en .
+
+<http://x.github.io/event/5784>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Eggheads unite!  You have nothing to lose but your yolks.\n"@en .
+
+<http://x.github.io/event/674>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Military intelligence is a contradiction in terms.\n"@en .
+
+<http://x.github.io/event/1960>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "they charge fifteen cents for them.\n"@en .
+
+<http://x.github.io/event/5033>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Worst Vegetable of the Year: The brussels sprout.  This is also the\n"@en .
+
+<http://x.github.io/event/6436>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Old programmers never die.  They just branch to a new address.\n"@en .
+
+<http://x.github.io/event/176>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "How many hardware engineers does it take to change a lightbulb?\n"@en .
+
+<http://x.github.io/event/5927>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Good-bye.  I am leaving because I am bored.\n"@en .
+
+<http://x.github.io/event/8569>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "            once.\n"@en .
+
+<http://x.github.io/event/8316>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "I can't complain, but sometimes I still do.\n"@en .
+
+<http://x.github.io/event/3595>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Carl Zwanzig\n"@en .
+
+<http://x.github.io/event/9590>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "And made cider inside her inside.\n"@en .
+
+<http://x.github.io/event/9046>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "God is a comic playing to an audience that's afraid to laugh\n"@en .
+
+<http://x.github.io/event/3517>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "The meek shall inherit the earth -- they are too weak to refuse.\n"@en .
+
+<http://x.github.io/event/610>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "means the price went way up.\n"@en .
+
+<http://x.github.io/event/4072>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "The only way to get rid of a temptation is to yield to it.\n"@en .
+
+<http://x.github.io/event/6878>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Optimization hinders evolution.\n"@en .
+
+<http://x.github.io/event/6625>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "If the input was short of exact.\n"@en .
+
+<http://x.github.io/event/9267>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        instructor will assign 200 pages on planaria.\n"@en .
+
+<http://x.github.io/event/1107>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "himself from the sphere of exaction.\n"@en .
+
+<http://x.github.io/event/6127>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Macy's\n"@en .
+
+<http://x.github.io/event/8979>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Now and then an innocent person is sent to the legislature.\n"@en .
+
+<http://x.github.io/event/1374>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "A university is what a college becomes when the faculty loses interest\n"@en .
+
+<http://x.github.io/event/5839>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "If I traveled to the end of the rainbow\n"@en .
+
+<http://x.github.io/event/9677>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        But this output can be\n"@en .
+
+<http://x.github.io/event/3973>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "God is not dead!  He's alive and autographing bibles at Cody's\n"@en .
+
+<http://x.github.io/event/1097>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "asked the father of his little son.\n"@en .
+
+<http://x.github.io/event/9470>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "I met a Quux with seven hacks.\n"@en .
+
+<http://x.github.io/event/996>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "I must have slipped a disk -- my pack hurts\n"@en .
+
+<http://x.github.io/event/1563>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "It did not last; the devil howling \"Ho!\n"@en .
+
+<http://x.github.io/event/8417>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        The one who has the gold makes the rules.\n"@en .
+
+<http://x.github.io/event/6505>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "visible signs of his divine right to be blown skyhigh with a dynamite\n"@en .
+
+<http://x.github.io/event/6085>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Excellent day to have a rotten day.\n"@en .
+
+<http://x.github.io/event/5323>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- John O'Hara\n"@en .
+
+<http://x.github.io/event/4892>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "handicapped.\n"@en .
+
+<http://x.github.io/event/1033>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "The men sat sipping their tea in silence.  After a while the klutz\n"@en .
+
+<http://x.github.io/event/8859>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "God said, \"Let Newton be,\" and all was light.\n"@en .
+
+<http://x.github.io/event/8431>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Real Programmers don't write in COBOL.  COBOL is for wimpy applications\n"@en .
+
+<http://x.github.io/event/932>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "shoes.\n"@en .
+
+<http://x.github.io/event/9880>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Herbert Prochnow\n"@en .
+
+<http://x.github.io/event/9589>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Now, GC, for the nonce,\n"@en .
+
+<http://x.github.io/event/3885>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Let others think his heart is big,\n"@en .
+
+<http://x.github.io/event/7424>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "changer clothes.  Mountain climbing is OK, and real programmers wear their\n"@en .
+
+<http://x.github.io/event/2404>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "upon to act in accordance with the dictates of reason.\n"@en .
+
+<http://x.github.io/event/1001>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Peggy Joyce\n"@en .
+
+<http://x.github.io/event/1973>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "He sure is a fun god\n"@en .
+
+<http://x.github.io/event/5590>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Real Programmers don't write in COBOL.  COBOL is for wimpy applications\n"@en .
+
+<http://x.github.io/event/6993>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "visible signs of his divine right to be blown skyhigh with a dynamite\n"@en .
+
+<http://x.github.io/event/6740>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Ra!  Ra!  Ra!\n"@en .
+
+<http://x.github.io/event/5512>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Mark Twain\n"@en .
+
+<http://x.github.io/event/8873>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "God isn't dead, he just couldn't find a parking place.\n"@en .
+
+<http://x.github.io/event/402>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Noncombatant: A dead Quaker.\n"@en .
+
+<http://x.github.io/event/8620>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "headed.\n"@en .
+
+<http://x.github.io/event/4583>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Good advice is something a man gives when he is too old to set a bad\n"@en .
+
+<http://x.github.io/event/2671>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- \"The Hitchhiker's Guide to the Galaxy\"\n"@en .
+
+<http://x.github.io/event/6463>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "indigestion.\n"@en .
+
+<http://x.github.io/event/6210>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        Its monitor loses so totally!\n"@en .
+
+<http://x.github.io/event/3323>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "\"That must be wonderful!  I don't understand it at all.\"\n"@en .
+
+<http://x.github.io/event/6186>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Good day to let down old friends who need help.\n"@en .
+
+<http://x.github.io/event/3797>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Albert Einstein\n"@en .
+
+<http://x.github.io/event/1166>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Oscar Wilde\n"@en .
+
+<http://x.github.io/event/346>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Avoid reality at all costs.\n"@en .
+
+<http://x.github.io/event/5922>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "I'm not as think as you stoned I am.\n"@en .
+
+<http://x.github.io/event/3046>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "People will buy anything that's one to a customer.\n"@en .
+
+<http://x.github.io/event/4993>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "\"In short, _N is Richardian if, and only if, _N is not Richardian.\"\n"@en .
+
+<http://x.github.io/event/2362>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "executive.\n"@en .
+
+<http://x.github.io/event/9469>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Real Programmers don't write in BASIC.  Actually, no programmers write in BASIC\n"@en .
+
+<http://x.github.io/event/8785>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Lewis Carroll\n"@en .
+
+<http://x.github.io/event/6154>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "POP UP, PUSH DOWN, BYTE, BYTE, BYTE!\n"@en .
+
+<http://x.github.io/event/4915>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "get any programs at all and take what they get.\n"@en .
+
+<http://x.github.io/event/1600>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "If you think last Tuesday was a drag, wait till you see what happens\n"@en .
+
+<http://x.github.io/event/4961>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Bert Whitney\n"@en .
+
+<http://x.github.io/event/8034>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "shortest, though.\n"@en .
+
+<http://x.github.io/event/8753>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Underlying Principle of Socio-Genetics:\n"@en .
+
+<http://x.github.io/event/2979>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        1.  If reproducibility may be a problem, conduct the test only\n"@en .
+
+<http://x.github.io/event/4859>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "the continuing viability of Fortran.\n"@en .
+
+<http://x.github.io/event/8476>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Peter S. Beagle\n"@en .
+
+<http://x.github.io/event/7792>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Avoid him.  He's a Commie.\n"@en .
+
+<http://x.github.io/event/9626>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "There is no time like the present for postponing what you ought to be\n"@en .
+
+<http://x.github.io/event/1046>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        hits the paper.\n"@en .
+
+<http://x.github.io/event/4652>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "     An unbreakable toy is useful for breaking other toys.\n"@en .
+
+<http://x.github.io/event/5880>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Nudists are people who wear one-button suits.\n"@en .
+
+<http://x.github.io/event/2274>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "mistake when you make it again.\n"@en .
+
+<http://x.github.io/event/43>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "changer clothes.  Mountain climbing is OK, and real programmers wear their\n"@en .
+
+<http://x.github.io/event/2021>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "A Lisp programmer knows the value of everything, but the cost of\n"@en .
+
+<http://x.github.io/event/2993>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "if it were so, it would be; but as it isn't, it ain't.  That's logic!\"\n"@en .
+
+<http://x.github.io/event/3470>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "nothing.\n"@en .
+
+<http://x.github.io/event/4329>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "A language that doesn't affect the way you think about programming is\n"@en .
+
+<http://x.github.io/event/11>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        Its syntax worse than JOSS;\n"@en .
+
+<http://x.github.io/event/7262>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "mistake when you make it again.\n"@en .
+
+<http://x.github.io/event/9395>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Stop searching.  Happiness is right next to you.  Now, if they'd only\n"@en .
+
+<http://x.github.io/event/6753>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "it's because they were up all night.\n"@en .
+
+<http://x.github.io/event/5778>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        will find the programmers cannot write in English.\n"@en .
+
+<http://x.github.io/event/493>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Xerox never comes up with anything original.\n"@en .
+
+<http://x.github.io/event/2210>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Bill Hoest\n"@en .
+
+<http://x.github.io/event/8633>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        hits the paper.\n"@en .
+
+<http://x.github.io/event/5999>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "None: \"The user can work it out.\"\n"@en .
+
+<http://x.github.io/event/1701>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "The chicken that clucks the loudest is the one most likely to show up\n"@en .
+
+<http://x.github.io/event/3115>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Conscience is the inner voice that warns us somebody is looking\n"@en .
+
+<http://x.github.io/event/9110>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "The average woman would rather have beauty than brains, because the\n"@en .
+
+<http://x.github.io/event/3589>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "A day for firm decisions!!!!!  Or is it?\n"@en .
+
+<http://x.github.io/event/5714>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Alexander Graham Bell is alive and well in New York, and still waiting\n"@en .
+
+<http://x.github.io/event/2652>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Why did the Roman Empire collapse?  What is the Latin for office\n"@en .
+
+<http://x.github.io/event/5294>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "the computer.\n"@en .
+
+<http://x.github.io/event/5469>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "affairs has always been dominant and controlling.\n"@en .
+
+<http://x.github.io/event/3382>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "There was a young lady from Hyde\n"@en .
+
+<http://x.github.io/event/106>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "this sort of trash.\n"@en .
+
+<http://x.github.io/event/7349>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Gives us ham and pork and Bacon.\n"@en .
+
+<http://x.github.io/event/4287>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "You patch a bug, and dump it again:\n"@en .
+
+<http://x.github.io/event/9773>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Vital papers will demonstrate their vitality by spontaneously moving\n"@en .
+
+<http://x.github.io/event/8798>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "responsibility at the other.\n"@en .
+
+<http://x.github.io/event/871>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "It used to point to me,\n"@en .
+
+<http://x.github.io/event/9520>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "You patch a bug, and dump it again:\n"@en .
+
+<http://x.github.io/event/1866>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Foolish Dictionary\n"@en .
+
+<http://x.github.io/event/1193>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Artistic ventures highlighted.  Rob a museum.\n"@en .
+
+<http://x.github.io/event/3999>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        If Murphy's Law can go wrong, it will.\n"@en .
+
+<http://x.github.io/event/7110>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "President Reagan has noted that there are too many economic pundits and\n"@en .
+
+<http://x.github.io/event/8513>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "\n"@en .
+
+<http://x.github.io/event/4476>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Afternoon: That part of the day we spend worrying about how we wasted\n"@en .
+
+<http://x.github.io/event/4223>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "How many tech writers does it take to change a lightbulb?\n"@en .
+
+<http://x.github.io/event/341>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "nails.\n"@en .
+
+<http://x.github.io/event/769>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "-Deep Thought\n"@en .
+
+<http://x.github.io/event/2311>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "asked the father of his little son.\n"@en .
+
+<http://x.github.io/event/7331>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "They're only trying to make me LOOK paranoid!\n"@en .
+
+<http://x.github.io/event/8909>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "that I can.\"\n"@en .
+
+<http://x.github.io/event/8061>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "It used to point to me,\n"@en .
+
+<http://x.github.io/event/737>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "to worry.\n"@en .
+
+<http://x.github.io/event/9432>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "certain; and as far as they are certain, they do not refer to reality.\n"@en .
+
+<http://x.github.io/event/7773>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Oh, let us never, never doubt\n"@en .
+
+<http://x.github.io/event/5142>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Due to a shortage of devoted followers, the production of great leaders\n"@en .
+
+<http://x.github.io/event/3483>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "easy to handle:  You've solved the wrong problem.  Work hard to\n"@en .
+
+<http://x.github.io/event/7275>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        In any organization there will always be one person who knows\n"@en .
+
+<http://x.github.io/event/2002>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Honorable: Afflicted with an impediment in one's reach.  In legislative\n"@en .
+
+<http://x.github.io/event/1999>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "How long a minute is depends on which side of the bathroom door you're on.\n"@en .
+
+<http://x.github.io/event/7994>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Q: How many IBM cpu's does it take to do a logical right shift?\n"@en .
+
+<http://x.github.io/event/9828>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        While her lover lamented\n"@en .
+
+<http://x.github.io/event/70>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Naeser's Law:\n"@en .
+
+<http://x.github.io/event/9621>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "responsibility at the other.\n"@en .
+
+<http://x.github.io/event/6015>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "None.  The Universe spines the bulb, and the Zen master stays out of\n"@en .
+
+<http://x.github.io/event/1714>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- George Saunders' dying words\n"@en .
+
+<http://x.github.io/event/649>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "effort to teach them good manners.\n"@en .
+
+<http://x.github.io/event/6236>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Good day to let down old friends who need help.\n"@en .
+
+<http://x.github.io/event/2910>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "If I traveled to the end of the rainbow\n"@en .
+
+<http://x.github.io/event/6702>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Groucho Marx\n"@en .
+
+<http://x.github.io/event/5727>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Worst Vegetable of the Year: The brussels sprout.  This is also the\n"@en .
+
+<http://x.github.io/event/3640>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "The only way to get rid of a temptation is to yield to it.\n"@en .
+
+<http://x.github.io/event/2167>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "When the government bureau's remedies do not match your problem, you\n"@en .
+
+<http://x.github.io/event/1483>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Consultants are mystical people who ask a company for a number and then\n"@en .
+
+<http://x.github.io/event/2886>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Keep grandma off the streets -- legalize bingo.\n"@en .
+
+<http://x.github.io/event/2633>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Love at first sight is one of the greatest labor-saving devices the\n"@en .
+
+<http://x.github.io/event/4591>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Ass: The masculine of \"lass\".\n"@en .
+
+<http://x.github.io/event/8383>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Good day for a change of scene.  Repaper the bedroom wall.\n"@en .
+
+<http://x.github.io/event/9288>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "How many tech writers does it take to change a lightbulb?\n"@en .
+
+<http://x.github.io/event/4987>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Nudists are people who wear one-button suits.\n"@en .
+
+<http://x.github.io/event/9035>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "ends.\n"@en .
+
+<http://x.github.io/event/6148>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "A: Three.  One to screw in the lightbulb and two to fend off all those\n"@en .
+
+<http://x.github.io/event/4702>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Alexander Graham Bell is alive and well in New York, and still waiting\n"@en .
+
+<http://x.github.io/event/7390>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Only God can make random selections.\n"@en .
+
+<http://x.github.io/event/8249>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Adult: One old enough to know better.\n"@en .
+
+<http://x.github.io/event/5155>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "People will buy anything that's one to a customer.\n"@en .
+
+<http://x.github.io/event/2513>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "automation?\n"@en .
+
+<http://x.github.io/event/718>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Fourth Law of Applied Terror:\n"@en .
+
+<http://x.github.io/event/8010>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "A: Three.  One to screw in the lightbulb and two to fend off all those\n"@en .
+
+<http://x.github.io/event/764>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "that I can.\"\n"@en .
+
+<http://x.github.io/event/7035>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        If an idea can survive a bureaucratic review and be implemented\n"@en .
+
+<http://x.github.io/event/7929>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "otherwise require harder thinking.\n"@en .
+
+<http://x.github.io/event/4867>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Excellent day for drinking heavily.  Spike office water cooler.\n"@en .
+
+<http://x.github.io/event/1552>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "If you think last Tuesday was a drag, wait till you see what happens\n"@en .
+
+<http://x.github.io/event/4194>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Mark Twain\n"@en .
+
+<http://x.github.io/event/6572>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "\"Now is the time for all good men to come to.\"\n"@en .
+
+<http://x.github.io/event/5344>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "it made.\n"@en .
+
+<http://x.github.io/event/1054>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Mickey Mouse\n"@en .
+
+<http://x.github.io/event/5519>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Yiddish saying\n"@en .
+
+<http://x.github.io/event/5810>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "it made.\n"@en .
+
+<http://x.github.io/event/1229>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "\"Just once, I wish we would encounter an alien menace that wasn't\n"@en .
+
+<http://x.github.io/event/3607>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Celebrate Hannibal Day this year.  Take an elephant to lunch.\n"@en .
+
+<http://x.github.io/event/1520>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        Superiority is recessive.\n"@en .
+
+<http://x.github.io/event/3187>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Every bug had seven manifestations;\n"@en .
+
+<http://x.github.io/event/7698>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "worst vegetable of next year.\n"@en .
+
+<http://x.github.io/event/1994>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Accordion: A bagpipe with pleats.\n"@en .
+
+<http://x.github.io/event/9150>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "computer crashes.\n"@en .
+
+<http://x.github.io/event/9325>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Macy's\n"@en .
+
+<http://x.github.io/event/6982>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "to decadence without touching civilization.\n"@en .
+
+<http://x.github.io/event/3376>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Is it possible that software is not like anything else, that it is\n"@en .
+
+<http://x.github.io/event/4351>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "revitalize the corner saloon.\n"@en .
+
+<http://x.github.io/event/3123>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "the way.\n"@en .
+
+<http://x.github.io/event/6659>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "In the long run, every program becomes rococo, and then rubble.\n"@en .
+
+<http://x.github.io/event/5003>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "You patch a bug, and dump it again:\n"@en .
+
+<http://x.github.io/event/690>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "as afterward.\n"@en .
+
+<http://x.github.io/event/146>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Excellent day to have a rotten day.\n"@en .
+
+<http://x.github.io/event/865>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "As I was passing Project MAC,\n"@en .
+
+<http://x.github.io/event/3810>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Nature and nature's laws lay hid in night,\n"@en .
+
+<http://x.github.io/event/7182>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        Thy programs run, thy syscalls done,\n"@en .
+
+<http://x.github.io/event/9016>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Broad-mindedness: The result of flattening high-mindedness out.\n"@en .
+
+<http://x.github.io/event/4715>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "You can create your own opportunities this week.  Blackmail a senior\n"@en .
+
+<http://x.github.io/event/5270>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Assure us that it must be so.\n"@en .
+
+<http://x.github.io/event/6129>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Majority: That quality that distinguishes a crime from a law.\n"@en .
+
+<http://x.github.io/event/1155>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Antonym: The opposite of the word you're trying to think of.\n"@en .
+
+<http://x.github.io/event/2558>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "affairs has always been dominant and controlling.\n"@en .
+
+<http://x.github.io/event/9956>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        electrical cord.\n"@en .
+
+<http://x.github.io/event/6894>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        2.  If a straight line fit is required, obtain only two data\n"@en .
+
+<http://x.github.io/event/4982>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Advertisement: The most truthful part of a newspaper\n"@en .
+
+<http://x.github.io/event/9030>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Peter S. Beagle\n"@en .
+
+<http://x.github.io/event/2526>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Advertisement: The most truthful part of a newspaper\n"@en .
+
+<http://x.github.io/event/9924>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Adlai Stevenson\n"@en .
+
+<http://x.github.io/event/8521>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Tomorrow will be canceled due to lack of interest.\n"@en .
+
+<http://x.github.io/event/8949>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "crystallography weenies.\n"@en .
+
+<http://x.github.io/event/4659>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "in students.\n"@en .
+
+<http://x.github.io/event/777>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "and then pulled an all-nighter.\n"@en .
+
+<http://x.github.io/event/1344>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Caution: breathing may be hazardous to your health.\n"@en .
+
+<http://x.github.io/event/8995>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Charlie McCarthy\n"@en .
+
+<http://x.github.io/event/1519>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        1.  If reproducibility may be a problem, conduct the test only\n"@en .
+
+<http://x.github.io/event/1390>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "nothing.\n"@en .
+
+<http://x.github.io/event/9472>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "computer crashes.\n"@en .
+
+<http://x.github.io/event/18>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "There once was a girl named Irene\n"@en .
+
+<http://x.github.io/event/2295>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Perhaps, unless the billboards fall\n"@en .
+
+<http://x.github.io/event/5104>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Real Programmers don't write in PASCAL, or BLISS, or ADA, or any of those pinko\n"@en .
+
+<http://x.github.io/event/9615>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Never put off till tomorrow what you can avoid all together.\n"@en .
+
+<http://x.github.io/event/3491>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "And made cider inside her inside.\n"@en .
+
+<http://x.github.io/event/1288>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  ">from the sun; there's a large meteor blocking transmission; or someone\n"@en .
+
+<http://x.github.io/event/8433>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "lightly greased.\"\n"@en .
+
+<http://x.github.io/event/4143>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "What the hell, go ahead and put all your eggs in one basket.\n"@en .
+
+<http://x.github.io/event/6521>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "You patch a bug, and dump it again:\n"@en .
+
+<http://x.github.io/event/4318>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Joe Walsh\n"@en .
+
+<http://x.github.io/event/3634>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Now, GC, for the nonce,\n"@en .
+
+<http://x.github.io/event/2659>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Death is nature's way of telling you to slow down\n"@en .
+
+<http://x.github.io/event/482>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "really make them think they'll hate you.\n"@en .
+
+<http://x.github.io/event/9559>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "hour!\"\n"@en .
+
+<http://x.github.io/event/9306>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "It never does quite what I want\n"@en .
+
+<http://x.github.io/event/5269>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Lewis Carroll\n"@en .
+
+<http://x.github.io/event/8622>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Fruit flies like a banana\n"@en .
+
+<http://x.github.io/event/5560>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "The Universe is laughing behind your back\n"@en .
+
+<http://x.github.io/event/3357>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Now, GC, for the nonce,\n"@en .
+
+<http://x.github.io/event/5735>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        Never attribute to malice that which is adequately explained by\n"@en .
+
+<http://x.github.io/event/4507>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Computer programmers do it byte by byte\n"@en .
+
+<http://x.github.io/event/2420>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Accuracy: The vice of being right\n"@en .
+
+<http://x.github.io/event/3823>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "People will buy anything that's one to a customer.\n"@en .
+
+<http://x.github.io/event/4300>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "the way.\n"@en .
+
+<http://x.github.io/event/5030>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Gandhi: I think it would be a good idea.\n"@en .
+
+<http://x.github.io/event/3799>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "And everywhere this language went,\n"@en .
+
+<http://x.github.io/event/8566>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "A budget is just a method of worrying before you spend money, as well\n"@en .
+
+<http://x.github.io/event/7338>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Coronation: The ceremony of investing a sovereign with the outward and\n"@en .
+
+<http://x.github.io/event/8068>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "It was a book to kill time for those who liked it better dead.\n"@en .
+
+<http://x.github.io/event/5970>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Spend extra time on hobby.  Get plenty of rolling papers.\n"@en .
+
+<http://x.github.io/event/1389>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "System/3!  System/3!\n"@en .
+
+<http://x.github.io/event/2111>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Reality is an obstacle to hallucination.\n"@en .
+
+<http://x.github.io/event/6156>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "aureomycin, cocaine, interferon, and TLC.  The only ailment chicken\n"@en .
+
+<http://x.github.io/event/3016>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "God made the Idiot for practice, and then He made the School Board\n"@en .
+
+<http://x.github.io/event/6377>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Vitamin C deficiency is apauling\n"@en .
+
+<http://x.github.io/event/537>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "aloud what the country could do under first-class management.\n"@en .
+
+<http://x.github.io/event/1104>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "fur coat.\n"@en .
+
+<http://x.github.io/event/4290>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Majority: That quality that distinguishes a crime from a law.\n"@en .
+
+<http://x.github.io/event/5149>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Oscar Wilde\n"@en .
+
+<http://x.github.io/event/8082>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "It is the business of the future to be dangerous.\n"@en .
+
+<http://x.github.io/event/6843>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "doing.\n"@en .
+
+<http://x.github.io/event/5195>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        Its syntax worse than JOSS;\n"@en .
+
+<http://x.github.io/event/8004>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        If an idea can survive a bureaucratic review and be implemented\n"@en .
+
+<http://x.github.io/event/8976>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Lily Tomlin\n"@en .
+
+<http://x.github.io/event/551>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "slandered.\n"@en .
+
+<http://x.github.io/event/1799>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "The Law, in its majestic equality, forbids the rich, as well as the\n"@en .
+
+<http://x.github.io/event/3251>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Another good night not to sleep in a eucalyptus tree.\n"@en .
+
+<http://x.github.io/event/7043>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "It is easier to get forgiveness than permission.\n"@en .
+
+<http://x.github.io/event/2917>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Mistakes are often the stepping stones to utter failure.\n"@en .
+
+<http://x.github.io/event/7937>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Their topics run chiefly to sex.\n"@en .
+
+<http://x.github.io/event/8667>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Take not a single bit!\n"@en .
+
+<http://x.github.io/event/3647>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        The one who has the gold makes the rules.\n"@en .
+
+<http://x.github.io/event/1016>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "\n"@en .
+
+<http://x.github.io/event/1988>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Stay away from flying saucers today.\n"@en .
+
+<http://x.github.io/event/9319>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Every hack had seven bugs;\n"@en .
+
+<http://x.github.io/event/6004>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Perhaps, unless the billboards fall\n"@en .
+
+<http://x.github.io/event/9190>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Elbert Hubbard\n"@en .
+
+<http://x.github.io/event/5748>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "give it back to them.\n"@en .
+
+<http://x.github.io/event/2433>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "There cannot be a crisis next week.  My schedule is already full.\n"@en .
+
+<http://x.github.io/event/5043>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "debugging sessions.\n"@en .
+
+<http://x.github.io/event/3384>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Never try to outstubborn a cat.\n"@en .
+
+<http://x.github.io/event/4534>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "computer crashes.\n"@en .
+
+<http://x.github.io/event/2875>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "\n"@en .
+
+<http://x.github.io/event/5011>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Stay away from flying saucers today.\n"@en .
+
+<http://x.github.io/event/9775>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "1st customer: \"I'll have tea.\"\n"@en .
+
+<http://x.github.io/event/4004>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        He said, \"Yes, I know.\n"@en .
+
+<http://x.github.io/event/4723>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "bogglingly big it is.  I mean, you may think it's a long way down the\n"@en .
+
+<http://x.github.io/event/8515>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "ends.\n"@en .
+
+<http://x.github.io/event/1163>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "\"You'll never be the man your mother was!\"\n"@en .
+
+<http://x.github.io/event/5628>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "\n"@en .
+
+<http://x.github.io/event/9245>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Experience is that marvelous thing that enables you recognize a\n"@en .
+
+<http://x.github.io/event/7333>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "\"It is easier for a camel to pass through the eye of a needle if it is\n"@en .
+
+<http://x.github.io/event/6105>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Kinkler's Second Law:\n"@en .
+
+<http://x.github.io/event/4699>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                   \"Register Allocation in Optimizing Compilers\"\n"@en .
+
+<http://x.github.io/event/8063>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Vote anarchist\n"@en .
+
+<http://x.github.io/event/3218>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Avoid reality at all costs.\n"@en .
+
+<http://x.github.io/event/6579>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Never try to outstubborn a cat.\n"@en .
+
+<http://x.github.io/event/1306>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        If you are given an open-book exam, you will forget your book.\n"@en .
+
+<http://x.github.io/event/4414>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Noncombatant: A dead Quaker.\n"@en .
+
+<http://x.github.io/event/9434>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "I'm prepared for all emergencies but totally unprepared for everyday\n"@en .
+
+<http://x.github.io/event/2755>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "And drugs cause cramp.\n"@en .
+
+<http://x.github.io/event/2502>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Every bug had seven manifestations;\n"@en .
+
+<http://x.github.io/event/8925>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Fairy Tale: A horror story to prepare children for the newspapers.\n"@en .
+
+<http://x.github.io/event/3232>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Lewis Carroll\n"@en .
+
+<http://x.github.io/event/4681>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Vital papers will demonstrate their vitality by spontaneously moving\n"@en .
+
+<http://x.github.io/event/4137>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "And made cider inside her inside.\n"@en .
+
+<http://x.github.io/event/6515>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- The Brigader, from Dr. Who\n"@en .
+
+<http://x.github.io/event/7498>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "It is easier to get forgiveness than permission.\n"@en .
+
+<http://x.github.io/event/1794>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "\"Now is the time for all good men to come to.\"\n"@en .
+
+<http://x.github.io/event/9876>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Whether you can hear it or not\n"@en .
+
+<http://x.github.io/event/7245>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Don't worry over what other people are thinking about you.  They're too\n"@en .
+
+<http://x.github.io/event/7711>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "give it back to them.\n"@en .
+
+<http://x.github.io/event/6063>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "A language that doesn't affect the way you think about programming is\n"@en .
+
+<http://x.github.io/event/7466>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Oscar Wilde\n"@en .
+
+<http://x.github.io/event/8869>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "average man can see better than he can think.\n"@en .
+
+<http://x.github.io/event/9171>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Advertisement: The most truthful part of a newspaper\n"@en .
+
+<http://x.github.io/event/9599>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Adult: One old enough to know better.\n"@en .
+
+<http://x.github.io/event/9346>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Losing your drivers' license is just God's way of saying \"BOOGA, BOOGA!\"\n"@en .
+
+<http://x.github.io/event/8118>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "ends.\n"@en .
+
+<http://x.github.io/event/7609>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Bizarreness is the essence of the exotic\n"@en .
+
+<http://x.github.io/event/2888>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Oh, let us never, never doubt\n"@en .
+
+<http://x.github.io/event/9314>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "A diva who specializes in risqu'e arias is an off-coloratura soprano...\n"@en .
+
+<http://x.github.io/event/8883>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "price went up.  The label \"ALL NEW\", \"COMPLETELY NEW\", or \"GREAT NEW\"\n"@en .
+
+<http://x.github.io/event/3190>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "in God.\n"@en .
+
+<http://x.github.io/event/8132>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "programmers.\n"@en .
+
+<http://x.github.io/event/1200>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Perfect day for scrubbing the floor and other exciting things.\n"@en .
+
+<http://x.github.io/event/388>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Conscience is the inner voice that warns us somebody is looking\n"@en .
+
+<http://x.github.io/event/2183>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "you are going to see of him until he emerges on the other side of his\n"@en .
+
+<http://x.github.io/event/4017>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        \"Diet.\"\n"@en .
+
+<http://x.github.io/event/7378>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        what is going on.\n"@en .
+
+<http://x.github.io/event/4063>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Foolish Dictionary\n"@en .
+
+<http://x.github.io/event/6869>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Brain fried -- Core dumped\n"@en .
+
+<http://x.github.io/event/2151>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Waiter: \"Tea or coffee, gentlemen?\"\n"@en .
+
+<http://x.github.io/event/1144>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "returns of conjecture out of such a trifling investment of fact.\n"@en .
+
+<http://x.github.io/event/8542>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Herbert Prochnow\n"@en .
+
+<http://x.github.io/event/4252>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "honorable gentleman is a scurvy cur.\"\n"@en .
+
+<http://x.github.io/event/1190>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        The mouse dissolved\n"@en .
+
+<http://x.github.io/event/2049>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "I'll never see a tree at all.\n"@en .
+
+<http://x.github.io/event/1365>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "POP UP, PUSH DOWN, BYTE, BYTE, BYTE!\n"@en .
+
+<http://x.github.io/event/5157>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Save energy: be apathetic.\n"@en .
+
+<http://x.github.io/event/7535>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Horngren's Observation:\n"@en .
+
+<http://x.github.io/event/8012>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Eggheads unite!  You have nothing to lose but your yolks.\n"@en .
+
+<http://x.github.io/event/9>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Dr. Who\n"@en .
+
+<http://x.github.io/event/85>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "tobacco in between.\n"@en .
+
+<http://x.github.io/event/3213>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "System/3!\n"@en .
+
+<http://x.github.io/event/8233>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "When the government bureau's remedies do not match your problem, you\n"@en .
+
+<http://x.github.io/event/7258>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "You might as well live.\n"@en .
+
+<http://x.github.io/event/1056>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "effort to teach them good manners.\n"@en .
+
+<http://x.github.io/event/4837>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Real Programmers don't document.  Documentation is for simps who can't read the\n"@en .
+
+<http://x.github.io/event/2206>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "The men sat sipping their tea in silence.  After a while the klutz\n"@en .
+
+<http://x.github.io/event/8629>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Man is the only animal that blushes -- or needs to.\n"@en .
+
+<http://x.github.io/event/3900>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Ra!  Ra!  Ra!\n"@en .
+
+<http://x.github.io/event/7272>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Q: How many heterosexual males does it take to screw in a light bulb in\n"@en .
+
+<http://x.github.io/event/1743>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Acid -- better living through chemistry.\n"@en .
+
+<http://x.github.io/event/3157>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Q: How many Oregonians does it take to screw in a light bulb?\n"@en .
+
+<http://x.github.io/event/6938>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "full days you don't get.  Try to avoid Februarys whenever possible.\n"@en .
+
+<http://x.github.io/event/3623>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Razors pain you;\n"@en .
+
+<http://x.github.io/event/3378>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "A bachelor is a selfish, undeserving guy who has cheated some woman\n"@en .
+
+<http://x.github.io/event/9373>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Electrocution: Burning at the stake with all the modern improvements.\n"@en .
+
+<http://x.github.io/event/8864>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "government at all.\n"@en .
+
+<http://x.github.io/event/4542>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Senator Soaper\n"@en .
+
+<http://x.github.io/event/4717>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Paul McCracken\n"@en .
+
+<http://x.github.io/event/4044>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "California is a fine place to live -- if you happen to be an orange.\n"@en .
+
+<http://x.github.io/event/9064>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Only adults have difficulty with childproof caps.\n"@en .
+
+<http://x.github.io/event/4219>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "He looked at me as if I was a side dish he hadn't ordered.\n"@en .
+
+<http://x.github.io/event/8380>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        2) \"You and what army?\"\n"@en .
+
+<http://x.github.io/event/881>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Carl Zwanzig\n"@en .
+
+<http://x.github.io/event/4938>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "The National Short-Sleeved Shirt Association says:\n"@en .
+
+<http://x.github.io/event/5493>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Accident: A condition in which presence of mind is good, but absence of\n"@en .
+
+<http://x.github.io/event/1623>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        He said, \"Yes, I know.\n"@en .
+
+<http://x.github.io/event/5240>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "\"There are three possibilities: Pioneer's solar panel has turned away\n"@en .
+
+<http://x.github.io/event/3581>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Would you like to play Global Thermo-nuclear War?\n"@en .
+
+<http://x.github.io/event/3037>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "If the input was short of exact.\n"@en .
+
+<http://x.github.io/event/5415>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "to decadence without touching civilization.\n"@en .
+
+<http://x.github.io/event/8057>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "lightly greased.\"\n"@en .
+
+<http://x.github.io/event/4731>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "According to the latest official figures, 43% of all statistics are\n"@en .
+
+<http://x.github.io/event/1171>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Only adults have difficulty with childproof caps.\n"@en .
+
+<http://x.github.io/event/1599>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Call Avogardo 6.02 x 10^23\n"@en .
+
+<http://x.github.io/event/8997>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Steinbach's Guideline for Systems Programming\n"@en .
+
+<http://x.github.io/event/8025>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Why did the Lord give us so much quickness of movement unless it was to\n"@en .
+
+<http://x.github.io/event/2749>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "in students.\n"@en .
+
+<http://x.github.io/event/8071>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "            once.\n"@en .
+
+<http://x.github.io/event/3770>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Good news.  Ten weeks from Friday will be a pretty good day.\n"@en .
+
+<http://x.github.io/event/8790>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "I must have slipped a disk -- my pack hurts\n"@en .
+
+<http://x.github.io/event/1567>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Albert Einstein\n"@en .
+
+<http://x.github.io/event/7737>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Ass: The masculine of \"lass\".\n"@en .
+
+<http://x.github.io/event/4675>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Cleveland still lives.  God _m_u_s_t be dead.\n"@en .
+
+<http://x.github.io/event/66>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Science is what happens when preconception meets verification.\n"@en .
+
+<http://x.github.io/event/2044>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Never try to outstubborn a cat.\n"@en .
+
+<http://x.github.io/event/793>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        will find the programmers cannot write in English.\n"@en .
+
+<http://x.github.io/event/1360>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "It is the business of the future to be dangerous.\n"@en .
+
+<http://x.github.io/event/968>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Who do you trust?\n"@en .
+
+<http://x.github.io/event/295>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Groucho Marx\n"@en .
+
+<http://x.github.io/event/7705>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "            once.\n"@en .
+
+<http://x.github.io/event/2984>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Adult: One old enough to know better.\n"@en .
+
+<http://x.github.io/event/1581>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "\"You'll never be the man your mother was!\"\n"@en .
+
+<http://x.github.io/event/3415>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Do not take life too seriously; you will never get out if it alive.\n"@en .
+
+<http://x.github.io/event/4818>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Don't go surfing in South Dakota for a while.\n"@en .
+
+<http://x.github.io/event/2731>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Shining with all his might:\n"@en .
+
+<http://x.github.io/event/8403>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  ">from where you left them to where you can't find them.\n"@en .
+
+<http://x.github.io/event/9133>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Carl Zwanzig\n"@en .
+
+<http://x.github.io/event/8158>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Future looks spotty.  You will spill soup in late evening.\n"@en .
+
+<http://x.github.io/event/7474>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "indigestion.\n"@en .
+
+<http://x.github.io/event/5562>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Walt Kelly\n"@en .
+
+<http://x.github.io/event/6965>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Stop searching.  Happiness is right next to you.  Now, if they'd only\n"@en .
+
+<http://x.github.io/event/6292>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Peggy Joyce\n"@en .
+
+<http://x.github.io/event/9529>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Why did the Lord give us so much quickness of movement unless it was to\n"@en .
+
+<http://x.github.io/event/2177>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "\n"@en .
+
+<http://x.github.io/event/8172>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        Johnny's so long at the fair.\n"@en .
+
+<http://x.github.io/event/129>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "We wish you a Hare Krishna\n"@en .
+
+<http://x.github.io/event/8315>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Only God can make random selections.\n"@en .
+
+<http://x.github.io/event/816>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Just because your doctor has a name for your condition doesn't mean he\n"@en .
+
+<http://x.github.io/event/6656>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "If you make people think they're thinking, they'll love you; but if you\n"@en .
+
+<http://x.github.io/event/5972>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        it wasn't worth doing.\n"@en .
+
+<http://x.github.io/event/143>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "after the age of 12.\n"@en .
+
+<http://x.github.io/event/8361>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Today is the tomorrow you worried about yesterday\n"@en .
+
+<http://x.github.io/event/7386>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "that is not being talked about.\n"@en .
+
+<http://x.github.io/event/1604>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "eyes...\"\n"@en .
+
+<http://x.github.io/event/4246>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "When the government bureau's remedies do not match your problem, you\n"@en .
+
+<http://x.github.io/event/364>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Nooses give;\n"@en .
+
+<http://x.github.io/event/4965>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Absentee: A person with an income who has had the forethought to remove\n"@en .
+
+<http://x.github.io/event/6379>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        Anything that can go wr\n"@en .
+
+<http://x.github.io/event/3737>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Enzymes are things invented by biologists that explain things which\n"@en .
+
+<http://x.github.io/event/1106>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "\n"@en .
+
+<http://x.github.io/event/8504>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "I think that I shall never see\n"@en .
+
+<http://x.github.io/event/8084>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "You may be recognized soon.  Hide.\n"@en .
+
+<http://x.github.io/event/2089>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "fix it, and ...\n"@en .
+
+<http://x.github.io/event/7820>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Silverman's Law:\n"@en .
+
+<http://x.github.io/event/6845>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "People will buy anything that's one to a customer.\n"@en .
+
+<http://x.github.io/event/6393>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "\"All my friends and I are crazy.  That's the only thing that keeps us\n"@en .
+
+<http://x.github.io/event/6789>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "sane.\"\n"@en .
+
+<http://x.github.io/event/2499>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "computer science languages.  Strong typing is for people with weak memories. \n"@en .
+
+<http://x.github.io/event/2071>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Minnie Mouse is a slow maze learner.\n"@en .
+
+<http://x.github.io/event/276>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "in eucalyptus trees.\n"@en .
+
+<http://x.github.io/event/3940>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "create goyim?\"  The generally accepted answer is \"_s_o_m_e_b_o_d_y has to buy\n"@en .
+
+<http://x.github.io/event/8416>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "bread.\n"@en .
+
+<http://x.github.io/event/5101>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Kehlog Albran\n"@en .
+
+<http://x.github.io/event/61>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Keep America beautiful.  Swallow your beer cans.\n"@en .
+
+<http://x.github.io/event/6084>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Today is the first day of the rest of the mess\n"@en .
+
+<http://x.github.io/event/1783>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Real Programmers' programs never work right the first time.  But if you throw\n"@en .
+
+<http://x.github.io/event/9612>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- F. P. Jones\n"@en .
+
+<http://x.github.io/event/2933>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Imagination is the one weapon in the war against reality.\n"@en .
+
+<http://x.github.io/event/9192>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "A closed mouth gathers no foot.\n"@en .
+
+<http://x.github.io/event/212>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "It was the reader's CONS\n"@en .
+
+<http://x.github.io/event/1751>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Californians trying to share the experience.\n"@en .
+
+<http://x.github.io/event/8605>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "slandered.\n"@en .
+
+<http://x.github.io/event/1926>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "The average woman would rather have beauty than brains, because the\n"@en .
+
+<http://x.github.io/event/9335>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        Its monitor loses so totally!\n"@en .
+
+<http://x.github.io/event/7676>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "As far as the laws of mathematics refer to reality, they are not\n"@en .
+
+<http://x.github.io/event/2403>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Signs of crime: screaming or cries for help.\n"@en .
+
+<http://x.github.io/event/6020>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "If God had wanted you to go around nude, He would have given you bigger\n"@en .
+
+<http://x.github.io/event/8826>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "A closed mouth gathers no foot.\n"@en .
+
+<http://x.github.io/event/6914>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        If you view your problem closely enough you will recognize\n"@en .
+
+<http://x.github.io/event/5091>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        And masculine urgin's,\n"@en .
+
+<http://x.github.io/event/1649>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Space is big.  You just won't believe how vastly, hugely, mind-\n"@en .
+
+<http://x.github.io/event/6669>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Only God can make random selections.\n"@en .
+
+<http://x.github.io/event/8121>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Bill Hoest\n"@en .
+
+<http://x.github.io/event/622>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Truth will be out this morning.  (Which may really mess things up.)\n"@en .
+
+<http://x.github.io/event/9570>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Let others think his heart is big,\n"@en .
+
+<http://x.github.io/event/4006>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        He said, \"Yes, I know.\n"@en .
+
+<http://x.github.io/event/3322>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Today is the first day of the rest of the mess\n"@en .
+
+<http://x.github.io/event/124>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        This person must be fired.\n"@en .
+
+<http://x.github.io/event/8342>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Christ: A man who was born at least 5,000 years ahead of his time.\n"@en .
+
+<http://x.github.io/event/1410>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "We wish you a Hare Krishna\n"@en .
+
+<http://x.github.io/event/3077>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "thing he tells you.\n"@en .
+
+<http://x.github.io/event/9791>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Xerox does it again and again and again and ...\n"@en .
+
+<http://x.github.io/event/345>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "God made the Idiot for practice, and then He made the School Board\n"@en .
+
+<http://x.github.io/event/6185>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "A candidate is a person who gets money from the rich and votes from the\n"@en .
+
+<http://x.github.io/event/811>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Minnie Mouse is a slow maze learner.\n"@en .
+
+<http://x.github.io/event/4273>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Modern man is the missing link between apes and human beings.\n"@en .
+
+<http://x.github.io/event/4448>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "What use is magic if it can't save a unicorn?\n"@en .
+
+<http://x.github.io/event/1386>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Fairy Tale: A horror story to prepare children for the newspapers.\n"@en .
+
+<http://x.github.io/event/2789>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Stop searching.  Happiness is right next to you.  Now, if they'd only\n"@en .
+
+<http://x.github.io/event/8784>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Good advice is something a man gives when he is too old to set a bad\n"@en .
+
+<http://x.github.io/event/1852>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Never try to outstubborn a cat.\n"@en .
+
+<http://x.github.io/event/9934>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "I'll never see a tree at all.\n"@en .
+
+<http://x.github.io/event/3266>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Why did the Lord give us so much quickness of movement unless it was to\n"@en .
+
+<http://x.github.io/event/1529>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Advertisement: The most truthful part of a newspaper\n"@en .
+
+<http://x.github.io/event/709>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "USER n.: A programmer who will believe anything you tell him.\n"@en .
+
+<http://x.github.io/event/9902>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "He sure is a fun god\n"@en .
+
+<http://x.github.io/event/5865>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "The meek shall inherit the earth -- they are too weak to refuse.\n"@en .
+
+<http://x.github.io/event/3953>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "God made the Idiot for practice, and then He made the School Board\n"@en .
+
+<http://x.github.io/event/6595>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "The past always looks better than it was.  It's only pleasant because\n"@en .
+
+<http://x.github.io/event/9159>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "\"He was so narrow minded he could see through a keyhole with both\n"@en .
+
+<http://x.github.io/event/6517>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Presidents and Kings to the scum of the earth...\"\n"@en .
+
+<http://x.github.io/event/4683>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Will divide, multiply, and subtract.\n"@en .
+
+<http://x.github.io/event/1077>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "\"Why isn't there a special name for the tops of your feet?\"\n"@en .
+
+<http://x.github.io/event/257>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "It used to point to me,\n"@en .
+
+<http://x.github.io/event/2227>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Modern man is the missing link between apes and human beings.\n"@en .
+
+<http://x.github.io/event/2241>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        it wasn't worth doing.\n"@en .
+
+<http://x.github.io/event/1266>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "As Will Rogers would have said, \"There is no such things as a free\n"@en .
+
+<http://x.github.io/event/446>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Alimony is a system by which, when two people make a mistake, one of\n"@en .
+
+<http://x.github.io/event/5777>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Bride: A woman with a fine prospect of happiness behind her.\n"@en .
+
+<http://x.github.io/event/3865>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "but that's because it's the best book on anything for the layman.\n"@en .
+
+<http://x.github.io/event/6254>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Macy's\n"@en .
+
+<http://x.github.io/event/9362>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "\n"@en .
+
+<http://x.github.io/event/3114>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "average man can see better than he can think.\n"@en .
+
+<http://x.github.io/event/2858>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Paranoids are people, too; they have their own problems.  It's easy to\n"@en .
+
+<http://x.github.io/event/1202>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "doing.\n"@en .
+
+<http://x.github.io/event/8600>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "One of the oldest problems puzzled over in the Talmud is: \"Why did God\n"@en .
+
+<http://x.github.io/event/1921>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Everyone can be taught to sculpt:  Michelangelo would have had to be\n"@en .
+
+<http://x.github.io/event/9583>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Mark Twain\n"@en .
+
+<http://x.github.io/event/5966>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "You cannot kill time without injuring eternity.\n"@en .
+
+<http://x.github.io/event/4310>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        other.\n"@en .
+
+<http://x.github.io/event/5468>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Democracy is a form of government in which it is permitted to wonder\n"@en .
+
+<http://x.github.io/event/183>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Our OS who art in CPU, UNIX be thy name.\n"@en .
+
+<http://x.github.io/event/2153>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Arithmetic is being able to count up to twenty without taking off your\n"@en .
+
+<http://x.github.io/event/9007>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        The one who has the gold makes the rules.\n"@en .
+
+<http://x.github.io/event/8576>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "\"It's Fabulous!  We haven't seen anything like it in the last half an\n"@en .
+
+<http://x.github.io/event/4286>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "System/3!  System/3!\n"@en .
+
+<http://x.github.io/event/9053>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "change.\n"@en .
+
+<http://x.github.io/event/8078>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "            Smoke a friend today.\n"@en .
+
+<http://x.github.io/event/4429>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        It's made by our favorite monopoly!\n"@en .
+
+<http://x.github.io/event/2595>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Ducharm's Axiom:\n"@en .
+
+<http://x.github.io/event/3570>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "are 50-50 it will.\n"@en .
+
+<http://x.github.io/event/3998>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        If an idea can survive a bureaucratic review and be implemented\n"@en .
+
+<http://x.github.io/event/3745>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Gigo\n"@en .
+
+<http://x.github.io/event/3072>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Conway's Law:\n"@en .
+
+<http://x.github.io/event/4941>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "We wish you a Hare Krishna\n"@en .
+
+<http://x.github.io/event/515>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Reality is an obstacle to hallucination.\n"@en .
+
+<http://x.github.io/event/7758>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                   \"Register Allocation in Optimizing Compilers\"\n"@en .
+
+<http://x.github.io/event/1381>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Waiter: \"Two teas.  Which one asked for the clean glass?\"\n"@en .
+
+<http://x.github.io/event/55>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "\"Just once, I wish we would encounter an alien menace that wasn't\n"@en .
+
+<http://x.github.io/event/2033>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Razors pain you;\n"@en .
+
+<http://x.github.io/event/8456>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Electrical Engineers do it with less resistance.\n"@en .
+
+<http://x.github.io/event/7947>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "What garlic is to salad, insanity is to art.\n"@en .
+
+<http://x.github.io/event/284>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "\n"@en .
+
+<http://x.github.io/event/1998>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Call Avogardo 6.02 x 10^23\n"@en .
+
+<http://x.github.io/event/4387>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "The Pig, if I am not mistaken,\n"@en .
+
+<http://x.github.io/event/5362>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Mark Twain\n"@en .
+
+<http://x.github.io/event/6765>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "happens.\n"@en .
+
+<http://x.github.io/event/2475>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "In a chronodimensional skip.\n"@en .
+
+<http://x.github.io/event/3878>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "say what I wish done,\" give him a lollipop.\n"@en .
+
+<http://x.github.io/event/8898>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Ducharm's Axiom:\n"@en .
+
+<http://x.github.io/event/7242>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "What this country needs is a good five-cent nickel.\n"@en .
+
+<http://x.github.io/event/6986>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "\"Matrimony isn't a word, it's a sentence.\"\n"@en .
+
+<http://x.github.io/event/9375>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "The earth is like a tiny grain of sand, only much, much heavier.\n"@en .
+
+<http://x.github.io/event/9122>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "A language that doesn't affect the way you think about programming is\n"@en .
+
+<http://x.github.io/event/1468>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "            once.\n"@en .
+
+<http://x.github.io/event/2443>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "as afterward.\n"@en .
+
+<http://x.github.io/event/4576>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "today.\n"@en .
+
+<http://x.github.io/event/8193>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Take not a single bit!\n"@en .
+
+<http://x.github.io/event/6701>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Remember, UNIX spelled backwards is XINU.\n"@en .
+
+<http://x.github.io/event/7684>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "    \"All flesh is grass\"\n"@en .
+
+<http://x.github.io/event/5772>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Time flies like an arrow\n"@en .
+
+<http://x.github.io/event/9564>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Oscar Wilde\n"@en .
+
+<http://x.github.io/event/4719>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Man is the only animal that blushes -- or needs to.\n"@en .
+
+<http://x.github.io/event/1404>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Eleanor Roosevelt\n"@en .
+
+<http://x.github.io/event/3362>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Thomas Jefferson\n"@en .
+
+<http://x.github.io/event/339>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "SHIFT TO THE LEFT!  SHIFT TO THE RIGHT!\n"@en .
+
+<http://x.github.io/event/1878>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "If you put garbage in a computer nothing comes out but garbage.  But\n"@en .
+
+<http://x.github.io/event/1625>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "A: 33.  1 to hold the bits and 32 to push the register.\n"@en .
+
+<http://x.github.io/event/2600>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "taught how _n_o_t to.  So it is with the great programmers.\n"@en .
+
+<http://x.github.io/event/4986>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "easy to handle:  You've solved the wrong problem.  Work hard to\n"@en .
+
+<http://x.github.io/event/8059>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "A.A.A.A.A.: An organization for drunks who drive\n"@en .
+
+<http://x.github.io/event/1127>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "climbing boots to work in case a  mountain should suddenly spring up in the\n"@en .
+
+<http://x.github.io/event/8778>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "I wish that they would sell it.\n"@en .
+
+<http://x.github.io/event/7841>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Real Programmers don't write in BASIC.  Actually, no programmers write in BASIC\n"@en .
+
+<http://x.github.io/event/4235>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Jules de Gaultier\n"@en .
+
+<http://x.github.io/event/3007>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Mollison's Bureaucracy Hypothesis:\n"@en .
+
+<http://x.github.io/event/9974>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Die?  I should say not, dear fellow.  No Barrymore would allow such a\n"@en .
+
+<http://x.github.io/event/3053>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "analyzed, and replaced with new weaknesses.\n"@en .
+
+<http://x.github.io/event/574>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Science is what happens when preconception meets verification.\n"@en .
+
+<http://x.github.io/event/5606>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "of being a damned fool.\n"@en .
+
+<http://x.github.io/event/6589>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "There was a young poet named Dan,\n"@en .
+
+<http://x.github.io/event/3915>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "And other erotic effects.\n"@en .
+
+<http://x.github.io/event/2092>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        Johnny's so long at the fair.\n"@en .
+
+<http://x.github.io/event/4470>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Help a swallow land at Capistrano.\n"@en .
+
+<http://x.github.io/event/2986>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "It's because I try to put every possible syllable into that last line\n"@en .
+
+<http://x.github.io/event/6059>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- John Ciardi\n"@en .
+
+<http://x.github.io/event/9167>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Diplomacy is the art of saying \"nice doggy\" until you can find a rock.\n"@en .
+
+<http://x.github.io/event/3463>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Adlai Stevenson\n"@en .
+
+<http://x.github.io/event/4193>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "they charge fifteen cents for them.\n"@en .
+
+<http://x.github.io/event/6571>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Turnaucka's Law:\n"@en .
+
+<http://x.github.io/event/6999>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "honorable gentleman is a scurvy cur.\"\n"@en .
+
+<http://x.github.io/event/9388>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "God said, \"Let Newton be,\" and all was light.\n"@en .
+
+<http://x.github.io/event/3652>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Gas smells awful;\n"@en .
+
+<http://x.github.io/event/2677>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "FLASH!  Intelligence of mankind decreasing.  Details at ... uh, when\n"@en .
+
+<http://x.github.io/event/9103>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Your analyst has you mixed up with another patient.  Don't believe a\n"@en .
+
+<http://x.github.io/event/6262>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "honorable gentleman is a scurvy cur.\"\n"@en .
+
+<http://x.github.io/event/5287>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        A new hydrocarbon\n"@en .
+
+<http://x.github.io/event/4059>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Real Programmers don't write in BASIC.  Actually, no programmers write in BASIC\n"@en .
+
+<http://x.github.io/event/6437>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Jules de Gaultier\n"@en .
+
+<http://x.github.io/event/5753>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "and wants it back the minute it begins to rain.\n"@en .
+
+<http://x.github.io/event/2147>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "exciting Delaware, New Jersy. (Home of Barry Fletcher!)\n"@en .
+
+<http://x.github.io/event/3841>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Condense soup, not books!\n"@en .
+
+<http://x.github.io/event/6658>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "In a five year period we can get one superb programming language.  Only\n"@en .
+
+<http://x.github.io/event/5255>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "There is only one thing in the world worse than being talked about, and\n"@en .
+
+<http://x.github.io/event/2193>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Don't hate yourself in the morning -- sleep till noon.\n"@en .
+
+<http://x.github.io/event/8363>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "soup can't cure is neurotic dependence on one's mother.\n"@en .
+
+<http://x.github.io/event/8538>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "43rd Law of Computing:\n"@en .
+
+<http://x.github.io/event/2834>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Arthur Naiman\n"@en .
+
+<http://x.github.io/event/1859>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "\n"@en .
+
+<http://x.github.io/event/7854>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Excellent day for drinking heavily.  Spike office water cooler.\n"@en .
+
+<http://x.github.io/event/7181>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "You might as well live.\n"@en .
+
+<http://x.github.io/event/8759>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "harder.\n"@en .
+
+<http://x.github.io/event/7822>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        Thy programs run, thy syscalls done,\n"@en .
+
+<http://x.github.io/event/587>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "analyzed, and replaced with new weaknesses.\n"@en .
+
+<http://x.github.io/event/9780>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        hits the paper.\n"@en .
+
+<http://x.github.io/event/1329>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "\n"@en .
+
+<http://x.github.io/event/8727>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Stay away from hurricanes for a while.\n"@en .
+
+<http://x.github.io/event/6815>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "If you make people think they're thinking, they'll love you; but if you\n"@en .
+
+<http://x.github.io/event/2059>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Advertisement: The most truthful part of a newspaper\n"@en .
+
+<http://x.github.io/event/5412>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "God is not dead!  He's alive and autographing bibles at Cody's\n"@en .
+
+<http://x.github.io/event/2350>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "She missed an invaluable opportunity to give him a look that you could\n"@en .
+
+<http://x.github.io/event/3209>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "loaded Star Trek 3.2 into our video processor.\"\n"@en .
+
+<http://x.github.io/event/8773>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "climbing boots to work in case a  mountain should suddenly spring up in the\n"@en .
+
+<http://x.github.io/event/6142>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Oh, let us never, never doubt\n"@en .
+
+<http://x.github.io/event/9923>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "If God is perfect, why did He create discontinuous functions?\n"@en .
+
+<http://x.github.io/event/9250>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "A university is what a college becomes when the faculty loses interest\n"@en .
+
+<http://x.github.io/event/5388>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "How long a minute is depends on which side of the bathroom door you're on.\n"@en .
+
+<http://x.github.io/event/5135>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "I think it stupid of the Pig.\n"@en .
+
+<http://x.github.io/event/7093>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "You patch a bug, and dump it again:\n"@en .
+
+<http://x.github.io/event/2792>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "\"Stealing a rhinoceros should not be attempted lightly.\"\n"@en .
+
+<http://x.github.io/event/17>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "certain; and as far as they are certain, they do not refer to reality.\n"@en .
+
+<http://x.github.io/event/2967>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Others will look to you for stability, so hide when you bite your\n"@en .
+
+<http://x.github.io/event/8418>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Earn cash in your spare time -- blackmail your friends\n"@en .
+
+<http://x.github.io/event/2714>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "in God.\n"@en .
+
+<http://x.github.io/event/1066>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "World War IV will be fought with sticks and stones.\"\n"@en .
+
+<http://x.github.io/event/3444>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        2.  If a straight line fit is required, obtain only two data\n"@en .
+
+<http://x.github.io/event/7780>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "at the steam fitters' picnic.\n"@en .
+
+<http://x.github.io/event/1785>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "The mouse on the m\"obius strip;\n"@en .
+
+<http://x.github.io/event/7236>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Got Mole problems?\n"@en .
+
+<http://x.github.io/event/3199>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "have a lucky day this year.\n"@en .
+
+<http://x.github.io/event/712>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "\n"@en .
+
+<http://x.github.io/event/3490>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Death is life's way of telling you you've been fired.\n"@en .
+
+<http://x.github.io/event/9660>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        \"And what will you do when you grow up to be as big as me?\"\n"@en .
+
+<http://x.github.io/event/1753>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "What this country needs is a good five cent ANYTHING!\n"@en .
+
+<http://x.github.io/event/6229>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "enough cheese\n"@en .
+
+<http://x.github.io/event/9162>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Chicken Little was right.\n"@en .
+
+<http://x.github.io/event/8187>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "In the long run, every program becomes rococo, and then rubble.\n"@en .
+
+<http://x.github.io/event/2230>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "every six months.\n"@en .
+
+<http://x.github.io/event/6275>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Don't go surfing in South Dakota for a while.\n"@en .
+
+<http://x.github.io/event/8109>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Who lived on distilled kerosene\n"@en .
+
+<http://x.github.io/event/6022>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        Thy programs run, thy syscalls done,\n"@en .
+
+<http://x.github.io/event/9130>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "If the input was short of exact.\n"@en .
+
+<http://x.github.io/event/9558>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "You will be surprised by a loud noise.\n"@en .
+
+<http://x.github.io/event/6962>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "they charge fifteen cents for them.\n"@en .
+
+<http://x.github.io/event/5015>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "\n"@en .
+
+<http://x.github.io/event/158>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "This login session: $13.99, but for you $11.88\n"@en .
+
+<http://x.github.io/event/4331>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Keep emotionally active.  Cater to your favorite neurosis.\n"@en .
+
+<http://x.github.io/event/624>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Life is like an onion: you peel off layer after layer, then you find\n"@en .
+
+<http://x.github.io/event/5061>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "bomb.\n"@en .
+
+<http://x.github.io/event/5282>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Duct tape is like the force.  It has a light side, and a dark side, and\n"@en .
+
+<http://x.github.io/event/126>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Bellamy Brooks\n"@en .
+
+<http://x.github.io/event/5702>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        Responsibility always exceeds authority.\n"@en .
+
+<http://x.github.io/event/2640>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "She missed an invaluable opportunity to give him a look that you could\n"@en .
+
+<http://x.github.io/event/845>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Democracy is a form of government in which it is permitted to wonder\n"@en .
+
+<http://x.github.io/event/7660>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "to reform.\n"@en .
+
+<http://x.github.io/event/4520>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "by the number of people in the group.\n"@en .
+
+<http://x.github.io/event/6653>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        If you are given a take-home exam, you will forget where you\n"@en .
+
+<http://x.github.io/event/5425>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "The Pig, if I am not mistaken,\n"@en .
+
+<http://x.github.io/event/2110>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "It is the business of the future to be dangerous.\n"@en .
+
+<http://x.github.io/event/315>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Don't cook tonight -- starve a rat today!\n"@en .
+
+<http://x.github.io/event/7130>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "The earth is like a tiny grain of sand, only much, much heavier.\n"@en .
+
+<http://x.github.io/event/7305>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Bill Hoest\n"@en .
+
+<http://x.github.io/event/3734>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "There once was a girl named Irene\n"@en .
+
+<http://x.github.io/event/7351>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "that the other fellow can spell.\n"@en .
+
+<http://x.github.io/event/2506>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Experience is that marvelous thing that enables you recognize a\n"@en .
+
+<http://x.github.io/event/4464>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "POP UP, PUSH DOWN, BYTE, BYTE, BYTE!\n"@en .
+
+<http://x.github.io/event/5867>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Keep America beautiful.  Swallow your beer cans.\n"@en .
+
+<http://x.github.io/event/4930>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Anarchy may not be the best form of government, but it's better than no\n"@en .
+
+<http://x.github.io/event/7028>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Predestination was doomed from the start.\n"@en .
+
+<http://x.github.io/event/9406>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        It runs all its programs in RPG!\n"@en .
+
+<http://x.github.io/event/2054>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "coughing.\"\n"@en .
+
+<http://x.github.io/event/3204>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "\"Might as well be frank, monsieur.  It would take a miracle to get you\n"@en .
+
+<http://x.github.io/event/5162>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "executive.\n"@en .
+
+<http://x.github.io/event/9673>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "A Lisp programmer knows the value of everything, but the cost of\n"@en .
+
+<http://x.github.io/event/8698>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Keep grandma off the streets -- legalize bingo.\n"@en .
+
+<http://x.github.io/event/5383>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "get used to it.\n"@en .
+
+<http://x.github.io/event/1093>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "indigestion.\n"@en .
+
+<http://x.github.io/event/3471>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Fifth Law of Applied Terror:\n"@en .
+
+<http://x.github.io/event/8491>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "\"Qvid me anxivs svm?\"\n"@en .
+
+<http://x.github.io/event/8666>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Coward: One who in a perilous emergency thinks with his legs.\n"@en .
+
+<http://x.github.io/event/5351>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Let others think his heart is big,\n"@en .
+
+<http://x.github.io/event/1909>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "they ought to be.  Hence the custom among the Scythians of plucking out\n"@en .
+
+<http://x.github.io/event/241>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        Never attribute to malice that which is adequately explained by\n"@en .
+
+<http://x.github.io/event/6722>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Clint Eastwood\n"@en .
+
+<http://x.github.io/event/1923>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Truth will be out this morning.  (Which may really mess things up.)\n"@en .
+
+<http://x.github.io/event/5715>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Absentee: A person with an income who has had the forethought to remove\n"@en .
+
+<http://x.github.io/event/2400>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "You're being followed.  Cut out the hanky-panky for a few days.\n"@en .
+
+<http://x.github.io/event/5042>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        The one who has the gold makes the rules.\n"@en .
+
+<http://x.github.io/event/7420>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "            points.\n"@en .
+
+<http://x.github.io/event/9087>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        If an idea can survive a bureaucratic review and be implemented\n"@en .
+
+<http://x.github.io/event/651>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Man Invented Alcohol,\n"@en .
+
+<http://x.github.io/event/7894>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "described with pictures.\n"@en .
+
+<http://x.github.io/event/5982>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Nothing is faster than the speed of light...\n"@en .
+
+<http://x.github.io/event/3779>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "First Rule of History:\n"@en .
+
+<http://x.github.io/event/3351>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Just because you're paranoid doesn't mean they AREN'T after you.\n"@en .
+
+<http://x.github.io/event/4754>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "there is nothing in it.\n"@en .
+
+<http://x.github.io/event/7862>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "They're only trying to make me LOOK paranoid!\n"@en .
+
+<http://x.github.io/event/5659>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Never put off till tomorrow what you can avoid all together.\n"@en .
+
+<http://x.github.io/event/1194>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "    \"All flesh is grass\"\n"@en .
+
+<http://x.github.io/event/374>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Diplomacy is the art of saying \"nice doggy\" until you can find a rock.\n"@en .
+
+<http://x.github.io/event/7364>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        Among economists, the real world is often a special case.\n"@en .
+
+<http://x.github.io/event/6136>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "            a cop.\"\n"@en .
+
+<http://x.github.io/event/2099>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "handicapped.\n"@en .
+
+<http://x.github.io/event/9917>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "average man can see better than he can think.\n"@en .
+
+<http://x.github.io/event/7830>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "The best book on programming for the layman is \"Alice in Wonderland\";\n"@en .
+
+<http://x.github.io/event/6602>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Corollary:\n"@en .
+
+<http://x.github.io/event/517>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Don't tell any big lies today.  Small ones can be just as effective.\n"@en .
+
+<http://x.github.io/event/89>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Egotism is the anesthetic given by a kindly nature to relieve the pain\n"@en .
+
+<http://x.github.io/event/4491>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "They also surf who only stand on waves.\n"@en .
+
+<http://x.github.io/event/2035>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Assure us that it must be so.\n"@en .
+
+<http://x.github.io/event/5396>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Turnaucka's Law:\n"@en .
+
+<http://x.github.io/event/2501>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        \"And what will you do when you grow up to be as big as me?\"\n"@en .
+
+<http://x.github.io/event/3904>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Elbert Hubbard\n"@en .
+
+<http://x.github.io/event/706>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Happiness: An agreeable sensation arising from contemplating the misery\n"@en .
+
+<http://x.github.io/event/9188>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "\n"@en .
+
+<http://x.github.io/event/3484>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Now, GC, for the nonce,\n"@en .
+
+<http://x.github.io/event/1028>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Anything labeled \"NEW\" and/or \"IMPROVED\" isn't.  The label means the\n"@en .
+
+<http://x.github.io/event/8426>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "A budget is just a method of worrying before you spend money, as well\n"@en .
+
+<http://x.github.io/event/7995>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        If Murphy's Law can go wrong, it will.\n"@en .
+
+<http://x.github.io/event/6767>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Mark Twain\n"@en .
+
+<http://x.github.io/event/5539>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "as afterward.\n"@en .
+
+<http://x.github.io/event/5585>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "\"I just need enough to tide me over until I need more.\"\n"@en .
+
+<http://x.github.io/event/1295>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Faith is the quality that enables you to eat blackberry jam on a picnic\n"@en .
+
+<http://x.github.io/event/2270>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Gives us ham and pork and Bacon.\n"@en .
+
+<http://x.github.io/event/1438>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Salvor Hardin\n"@en .
+
+<http://x.github.io/event/8836>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "UFO's are for real: the Air Force doesn't exist.\n"@en .
+
+<http://x.github.io/event/3318>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "The National Short-Sleeved Shirt Association says:\n"@en .
+
+<http://x.github.io/event/1659>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Good day to avoid cops.  Crawl to school.\n"@en .
+
+<http://x.github.io/event/5023>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "You patch a bug, and dump it again:\n"@en .
+
+<http://x.github.io/event/2809>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "You patch a bug, and dump it again:\n"@en .
+
+<http://x.github.io/event/7401>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Real Programmers don't write in FORTRAN.  FORTRAN is for pipe stress freaks and\n"@en .
+
+<http://x.github.io/event/8804>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Kinkler's First Law:\n"@en .
+
+<http://x.github.io/event/8131>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Real Programmers don't write in FORTRAN.  FORTRAN is for pipe stress freaks and\n"@en .
+
+<http://x.github.io/event/7156>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Real Programmers don't write in FORTRAN.  FORTRAN is for pipe stress freaks and\n"@en .
+
+<http://x.github.io/event/8559>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "America may be unique in being a country which has leapt from barbarism\n"@en .
+
+<http://x.github.io/event/8306>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Q: How many IBM cpu's does it take to do a logical right shift?\n"@en .
+
+<http://x.github.io/event/9289>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Put your Nose to the Grindstone!\n"@en .
+
+<http://x.github.io/event/5963>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "meant to be discarded:  That the whole point is to always see it as a\n"@en .
+
+<http://x.github.io/event/134>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "that I can.\"\n"@en .
+
+<http://x.github.io/event/1673>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        The mouse dissolved\n"@en .
+
+<http://x.github.io/event/4062>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        (Waiter exits, returns)\n"@en .
+
+<http://x.github.io/event/4781>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "visible signs of his divine right to be blown skyhigh with a dynamite\n"@en .
+
+<http://x.github.io/event/3009>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Don't knock President Fillmore.  He kept us out of Vietnam.\n"@en .
+
+<http://x.github.io/event/8029>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "I can resist anything but temptation.\n"@en .
+
+<http://x.github.io/event/1894>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "POP UP, PUSH DOWN, BYTE, BYTE, BYTE!\n"@en .
+
+<http://x.github.io/event/4283>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "the morning.\n"@en .
+
+<http://x.github.io/event/1396>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Nature and nature's laws lay hid in night,\n"@en .
+
+<http://x.github.io/event/1143>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "SQL Symphony Concert"@en .
+
+<http://x.github.io/event/3521>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Violence is the last refuge of the incompetent.\n"@en .
+
+<http://x.github.io/event/8541>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  ">from the sun; there's a large meteor blocking transmission; or someone\n"@en .
+
+<http://x.github.io/event/8716>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Oscar Wilde\n"@en .
+
+<http://x.github.io/event/797>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Avoid reality at all costs.\n"@en .
+
+<http://x.github.io/event/5829>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "today.\n"@en .
+
+<http://x.github.io/event/6131>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "In a five year period we can get one superb programming language.  Only\n"@en .
+
+<http://x.github.io/event/719>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Dealing with failure is easy:  Work hard to improve.  Success is also\n"@en .
+
+<http://x.github.io/event/1830>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "what it is I'll get married again.\n"@en .
+
+<http://x.github.io/event/3244>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        In any organization there will always be one person who knows\n"@en .
+
+<http://x.github.io/event/765>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "\"In short, _N is Richardian if, and only if, _N is not Richardian.\"\n"@en .
+
+<http://x.github.io/event/9414>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "exciting Delaware, New Jersy. (Home of Barry Fletcher!)\n"@en .
+
+<http://x.github.io/event/2735>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "take a bath...\n"@en .
+
+<http://x.github.io/event/5124>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "have a lucky day this year.\n"@en .
+
+<http://x.github.io/event/4149>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "\"The climate of Bombay is such that its inhabitants have to live\n"@en .
+
+<http://x.github.io/event/1087>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Good day for a change of scene.  Repaper the bedroom wall.\n"@en .
+
+<http://x.github.io/event/8905>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Nostalgia isn't what it used to be.\n"@en .
+
+<http://x.github.io/event/5843>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Justice: A decision in your favor.\n"@en .
+
+<http://x.github.io/event/7257>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "University: Like a software house, except the software's free, and it's\n"@en .
+
+<http://x.github.io/event/4195>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Jerome Lettvin\n"@en .
+
+<http://x.github.io/event/1728>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Mark Twain\n"@en .
+
+<http://x.github.io/event/488>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "How many tech writers does it take to change a lightbulb?\n"@en .
+
+<http://x.github.io/event/9681>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Nooses give;\n"@en .
+
+<http://x.github.io/event/9137>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "If you have a procedure with 10 parameters, you probably missed some.\n"@en .
+
+<http://x.github.io/event/7478>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Violence is the last refuge of the incompetent.\n"@en .
+
+<http://x.github.io/event/2924>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "out of a divorce.\n"@en .
+
+<http://x.github.io/event/6969>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Woody Allen.\n"@en .
+
+<http://x.github.io/event/5313>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Ingrate: A man who bites the hand that feeds him, and then complains of\n"@en .
+
+<http://x.github.io/event/9105>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Keep grandma off the streets -- legalize bingo.\n"@en .
+
+<http://x.github.io/event/2679>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Future looks spotty.  You will spill soup in late evening.\n"@en .
+
+<http://x.github.io/event/7271>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Death is life's way of telling you you've been fired.\n"@en .
+
+<http://x.github.io/event/8421>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "government at all.\n"@en .
+
+<http://x.github.io/event/4804>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "How many software engineers does it take to change a lightbulb?\n"@en .
+
+<http://x.github.io/event/7990>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "It was the reader's CONS\n"@en .
+
+<http://x.github.io/event/3156>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Real Programmers never work 9 to 5.  If any real programmers are around a 9 AM,\n"@en .
+
+<http://x.github.io/event/8176>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "modify the problem, not the remedy.\n"@en .
+
+<http://x.github.io/event/8642>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "The only way to get rid of a temptation is to yield to it.\n"@en .
+
+<http://x.github.io/event/6439>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "\"Here at the Phone Company, we serve all kinds of people; from\n"@en .
+
+<http://x.github.io/event/4352>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Eleanor Roosevelt\n"@en .
+
+<http://x.github.io/event/1290>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "to decadence without touching civilization.\n"@en .
+
+<http://x.github.io/event/9372>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Q: How many heterosexual males does it take to screw in a light bulb in\n"@en .
+
+<http://x.github.io/event/7460>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Oscar Wilde\n"@en .
+
+<http://x.github.io/event/7888>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        Oh, dear, where can the matter be\n"@en .
+
+<http://x.github.io/event/5004>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Alan Perlis\n"@en .
+
+<http://x.github.io/event/2195>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "once.\n"@en .
+
+<http://x.github.io/event/4029>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Now, GC, for the nonce,\n"@en .
+
+<http://x.github.io/event/3345>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "bread.\n"@en .
+
+<http://x.github.io/event/9768>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "He looked at me as if I was a side dish he hadn't ordered.\n"@en .
+
+<http://x.github.io/event/5478>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "with a large fortune.\"\n"@en .
+
+<http://x.github.io/event/2338>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "None: \"The user can work it out.\"\n"@en .
+
+<http://x.github.io/event/1654>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "The earth is like a tiny grain of sand, only much, much heavier.\n"@en .
+
+<http://x.github.io/event/2559>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "USER n.: A programmer who will believe anything you tell him.\n"@en .
+
+<http://x.github.io/event/2306>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Corner, Vermont.\"\n"@en .
+
+<http://x.github.io/event/8729>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- from the Brown Security Crime Prevention Pamphlet\n"@en .
+
+<http://x.github.io/event/6642>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "nothing.\n"@en .
+
+<http://x.github.io/event/3755>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "and then pulled an all-nighter.\n"@en .
+
+<http://x.github.io/event/8522>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "thing he tells you.\n"@en .
+
+<http://x.github.io/event/4485>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "the morning.\n"@en .
+
+<http://x.github.io/event/2573>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Beware of the Turing Tar-pit in which everything is possible but\n"@en .
+
+<http://x.github.io/event/4951>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Underlying Principle of Socio-Genetics:\n"@en .
+
+<http://x.github.io/event/9427>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Only adults have difficulty with childproof caps.\n"@en .
+
+<http://x.github.io/event/1811>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        Western Civilization?\n"@en .
+
+<http://x.github.io/event/2075>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        electrical cord.\n"@en .
+
+<http://x.github.io/event/8498>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "A: Three.  One to screw in the lightbulb and two to fend off all those\n"@en .
+
+<http://x.github.io/event/3225>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Celebrate Hannibal Day this year.  Take an elephant to lunch.\n"@en .
+
+<http://x.github.io/event/746>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Die: To stop sinning suddenly.\n"@en .
+
+<http://x.github.io/event/8964>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "otherwise require harder thinking.\n"@en .
+
+<http://x.github.io/event/2716>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Hummingbirds never remember the words to songs.\n"@en .
+
+<http://x.github.io/event/4674>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Symptoms, manifestations, bugs, and hacks,\n"@en .
+
+<http://x.github.io/event/792>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Afternoon: That part of the day we spend worrying about how we wasted\n"@en .
+
+<http://x.github.io/event/2218>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        Unless the results are known in advance, funding agencies will\n"@en .
+
+<http://x.github.io/event/5151>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Van Roy's Law:\n"@en .
+
+<http://x.github.io/event/2937>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "\"There are three possibilities: Pioneer's solar panel has turned away\n"@en .
+
+<http://x.github.io/event/8932>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "tickets.\n"@en .
+
+<http://x.github.io/event/2264>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Thomas Jefferson\n"@en .
+
+<http://x.github.io/event/7459>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Silverman's Law:\n"@en .
+
+<http://x.github.io/event/3>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Groucho Marx\n"@en .
+
+<http://x.github.io/event/3635>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "One good reason why computers can do more work than people is that they\n"@en .
+
+<http://x.github.io/event/1004>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "At the source of every error which is blamed on the computer you will\n"@en .
+
+<http://x.github.io/event/9630>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "If God had meant for us to be naked, we would have been born that way.\n"@en .
+
+<http://x.github.io/event/5593>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "God made the Idiot for practice, and then He made the School Board\n"@en .
+
+<http://x.github.io/event/4112>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Just because your doctor has a name for your condition doesn't mean he\n"@en .
+
+<http://x.github.io/event/3137>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Corollary:\n"@en .
+
+<http://x.github.io/event/658>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "find at least two human errors, including the error of blaming it on\n"@en .
+
+<http://x.github.io/event/5561>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Californians trying to share the experience.\n"@en .
+
+<http://x.github.io/event/6964>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "How many losses at Project MAC?\n"@en .
+
+<http://x.github.io/event/9353>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Majority: That quality that distinguishes a crime from a law.\n"@en .
+
+<http://x.github.io/event/3151>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Do molecular biologists wear designer genes?\n"@en .
+
+<http://x.github.io/event/4554>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Lie: A very poor substitute for the truth, but the only one discovered\n"@en .
+
+<http://x.github.io/event/4729>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "to work.\n"@en .
+
+<http://x.github.io/event/1667>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        1) \"Don't worry, I can handle it.\"\n"@en .
+
+<http://x.github.io/event/7837>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- John McNulty\n"@en .
+
+<http://x.github.io/event/174>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Our country has plenty of good five-cent cigars, but the trouble is\n"@en .
+
+<http://x.github.io/event/5925>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Old soldiers never die.  Young ones do.\n"@en .
+
+<http://x.github.io/event/2863>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "And this was very odd, because it was\n"@en .
+
+<http://x.github.io/event/6480>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "breath is called the listener.\n"@en .
+
+<http://x.github.io/event/5971>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "make the rubble bounce\"\n"@en .
+
+<http://x.github.io/event/2365>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Oh, let us never, never doubt\n"@en .
+
+<http://x.github.io/event/8360>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Maxwell Smart\n"@en .
+
+<http://x.github.io/event/1137>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Underlying Principle of Socio-Genetics:\n"@en .
+
+<http://x.github.io/event/2831>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Kinkler's Second Law:\n"@en .
+
+<http://x.github.io/event/5648>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Minnie Mouse is a slow maze learner.\n"@en .
+
+<http://x.github.io/event/363>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "If God had meant for us to be naked, we would have been born that way.\n"@en .
+
+<http://x.github.io/event/4291>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Nostalgia isn't what it used to be.\n"@en .
+
+<http://x.github.io/event/9906>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "\"Who cares if it doesn't do anything?  It was made with our new\n"@en .
+
+<http://x.github.io/event/5616>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "It seems like the less a statesman amounts to, the more he loves the\n"@en .
+
+<http://x.github.io/event/8977>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "If you don't care where you are, then you ain't lost.\n"@en .
+
+<http://x.github.io/event/506>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "I have seen the future and it is just like the present, only longer.\n"@en .
+
+<http://x.github.io/event/8724>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "of another.\n"@en .
+
+<http://x.github.io/event/3284>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Acids stain you;\n"@en .
+
+<http://x.github.io/event/4687>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "described with pictures.\n"@en .
+
+<http://x.github.io/event/3750>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Let Einstein be!\" restored the status quo.\n"@en .
+
+<http://x.github.io/event/7297>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Amalgamated Plastic Surgeons and Toolmakers, Ltd.\n"@en .
+
+<http://x.github.io/event/5385>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "they ought to be.  Hence the custom among the Scythians of plucking out\n"@en .
+
+<http://x.github.io/event/7219>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        If you view your problem closely enough you will recognize\n"@en .
+
+<http://x.github.io/event/2918>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Don't go surfing in South Dakota for a while.\n"@en .
+
+<http://x.github.io/event/9177>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Yiddish saying\n"@en .
+
+<http://x.github.io/event/4876>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Accordion: A bagpipe with pleats.\n"@en .
+
+<http://x.github.io/event/5851>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "None: \"We'll fix it in software.\"\n"@en .
+
+<http://x.github.io/event/994>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        in kernel as it is in user!\n"@en .
+
+<http://x.github.io/event/916>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "criticize, but if everybody hated you, you'd be paranoid too.\n"@en .
+
+<http://x.github.io/event/9145>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "knows what it is.\n"@en .
+
+<http://x.github.io/event/6503>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "hour!\"\n"@en .
+
+<http://x.github.io/event/3441>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Earn cash in your spare time -- blackmail your friends.\n"@en .
+
+<http://x.github.io/event/3869>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "God said, \"Let Newton be,\" and all was light.\n"@en .
+
+<http://x.github.io/event/1782>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "programming languages.\n"@en .
+
+<http://x.github.io/event/418>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "aureomycin, cocaine, interferon, and TLC.  The only ailment chicken\n"@en .
+
+<http://x.github.io/event/7454>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Screw up your courage!  You've screwed up everything else.\n"@en .
+
+<http://x.github.io/event/1750>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "A: Three.  One to screw in the lightbulb and two to fend off all those\n"@en .
+
+<http://x.github.io/event/9832>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Drive defensively.  Buy a tank.\n"@en .
+
+<http://x.github.io/event/1925>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        other.\n"@en .
+
+<http://x.github.io/event/2189>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Absentee: A person with an income who has had the forethought to remove\n"@en .
+
+<http://x.github.io/event/8650>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Reality is an obstacle to hallucination.\n"@en .
+
+<http://x.github.io/event/4069>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        Support your right to bare arms!\n"@en .
+
+<http://x.github.io/event/6447>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Green light in A.M. for new projects.  Red light in P.M. for traffic\n"@en .
+
+<http://x.github.io/event/8152>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "poor to protect them from each other.\n"@en .
+
+<http://x.github.io/event/3851>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Groucho Marx\n"@en .
+
+<http://x.github.io/event/4581>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "average man can see better than he can think.\n"@en .
+
+<http://x.github.io/event/9776>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "\n"@en .
+
+<http://x.github.io/event/8548>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "If you think last Tuesday was a drag, wait till you see what happens\n"@en .
+
+<http://x.github.io/event/6636>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "\n"@en .
+
+<http://x.github.io/event/8341>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Caution: breathing may be hazardous to your health.\n"@en .
+
+<http://x.github.io/event/842>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "A Lisp programmer knows the value of everything, but the cost of\n"@en .
+
+<http://x.github.io/event/7113>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Consultants are mystical people who ask a company for a number and then\n"@en .
+
+<http://x.github.io/event/1837>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "which means that if you rent an apartment, you are paying for three\n"@en .
+
+<http://x.github.io/event/5201>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "...And malt does more than Milton can\n"@en .
+
+<http://x.github.io/event/9246>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Foolish Dictionary\n"@en .
+
+<http://x.github.io/event/6184>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "What use is magic if it can't save a unicorn?\n"@en .
+
+<http://x.github.io/event/7587>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "If you put garbage in a computer nothing comes out but garbage.  But\n"@en .
+
+<http://x.github.io/event/9712>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Limericks are art forms complex,\n"@en .
+
+<http://x.github.io/event/3297>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "I really hate this damned machine\n"@en .
+
+<http://x.github.io/event/7509>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Stop searching.  Happiness is right next to you.  Now, if they'd only\n"@en .
+
+<http://x.github.io/event/9214>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        Its monitor loses so totally!\n"@en .
+
+<http://x.github.io/event/4913>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "really make them think they'll hate you.\n"@en .
+
+<http://x.github.io/event/1851>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "The IQ of the group is the lowest IQ of a member of the group divided\n"@en .
+
+<http://x.github.io/event/9260>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "atlantic with his verb in his mouth.\n"@en .
+
+<http://x.github.io/event/4240>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- John Ciardi\n"@en .
+
+<http://x.github.io/event/3984>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "You will be a winner today.  Pick a fight with a four-year-old.\n"@en .
+
+<http://x.github.io/event/2581>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- D. J. Hicks\n"@en .
+
+<http://x.github.io/event/786>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "How many hardware engineers does it take to change a lightbulb?\n"@en .
+
+<http://x.github.io/event/8207>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "upon to act in accordance with the dictates of reason.\n"@en .
+
+<http://x.github.io/event/5145>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "take a bath...\n"@en .
+
+<http://x.github.io/event/7523>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        The attention span of a computer is only as long as its\n"@en .
+
+<http://x.github.io/event/4461>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "in the morning, and does not stop until you get to school.\n"@en .
+
+<http://x.github.io/event/1574>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Silverman's Law:\n"@en .
+
+<http://x.github.io/event/3952>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "nothing of interest is easy.\n"@en .
+
+<http://x.github.io/event/6341>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "System/3!  System/3!\n"@en .
+
+<http://x.github.io/event/4682>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Year: A period of three hundred and sixty-five disappointments.\n"@en .
+
+<http://x.github.io/event/9877>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Hire the morally handicapped.\n"@en .
+
+<http://x.github.io/event/3201>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Do not drink coffee in early A.M.  It will keep you awake until noon.\n"@en .
+
+<http://x.github.io/event/3629>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Future looks spotty.  You will spill soup in late evening.\n"@en .
+
+<http://x.github.io/event/1542>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Automobile: A four-wheeled vehicle that runs up hills and down\n"@en .
+
+<http://x.github.io/event/9624>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        When told this was so,\n"@en .
+
+<http://x.github.io/event/2272>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "First Rule of History:\n"@en .
+
+<http://x.github.io/event/9126>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Good day to avoid cops.  Crawl to school.\n"@en .
+
+<http://x.github.io/event/8442>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "A professor is one who talks in someone else's sleep.\n"@en .
+
+<http://x.github.io/event/5089>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- W. C. Fields\n"@en .
+
+<http://x.github.io/event/1763>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- George Saunders' dying words\n"@en .
+
+<http://x.github.io/event/6239>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        But the good ones I've seen\n"@en .
+
+<http://x.github.io/event/6958>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Consultants are mystical people who ask a company for a number and then\n"@en .
+
+<http://x.github.io/event/3896>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Why did the Lord give us so much quickness of movement unless it was to\n"@en .
+
+<http://x.github.io/event/9347>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        Never attribute to malice that which is adequately explained by\n"@en .
+
+<http://x.github.io/event/2668>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "People will buy anything that's one to a customer.\n"@en .
+
+<http://x.github.io/event/8663>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "\"Now is the time for all good men to come to.\"\n"@en .
+
+<http://x.github.io/event/8631>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Real Programmers don't write in COBOL.  COBOL is for wimpy applications\n"@en .
+
+<http://x.github.io/event/3587>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "government at all.\n"@en .
+
+<http://x.github.io/event/136>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "It is easier to write an incorrect program than understand a correct\n"@en .
+
+<http://x.github.io/event/1675>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "after the age of 12.\n"@en .
+
+<http://x.github.io/event/4239>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Why did the Roman Empire collapse?  What is the Latin for office\n"@en .
+
+<http://x.github.io/event/2152>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "the light comes on.\n"@en .
+
+<http://x.github.io/event/104>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Just because you're paranoid doesn't mean they AREN'T after you.\n"@en .
+
+<http://x.github.io/event/1643>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "You might as well live.\n"@en .
+
+<http://x.github.io/event/4207>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Gravity is a myth, the Earth sucks.\n"@en .
+
+<http://x.github.io/event/3776>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "\"Who cares if it doesn't do anything?  It was made with our new\n"@en .
+
+<http://x.github.io/event/9771>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Things are more like they used to be than they are now.\n"@en .
+
+<http://x.github.io/event/7315>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Dying is a very dull, dreary affair.  And my advice to you is to\n"@en .
+
+<http://x.github.io/event/6884>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "have a lucky day this year.\n"@en .
+
+<http://x.github.io/event/9273>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "\"All my friends and I are crazy.  That's the only thing that keeps us\n"@en .
+
+<http://x.github.io/event/2594>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Everyting should be built top-down, except the first time.\n"@en .
+
+<http://x.github.io/event/3997>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                --Oscar Wilde\n"@en .
+
+<http://x.github.io/event/6386>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "There was a young lady from Hyde\n"@en .
+
+<http://x.github.io/event/8939>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Kehlog Albran\n"@en .
+
+<http://x.github.io/event/6852>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Maxwell Smart\n"@en .
+
+<http://x.github.io/event/9669>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "as afterward.\n"@en .
+
+<http://x.github.io/event/6101>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Lazarus Long\n"@en .
+
+<http://x.github.io/event/7504>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "UFO's are for real: the Air Force doesn't exist.\n"@en .
+
+<http://x.github.io/event/7259>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        reject the proposal.\n"@en .
+
+<http://x.github.io/event/988>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "But only what I tell it.\n"@en .
+
+<http://x.github.io/event/6575>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "conventional thing to happen to him.\n"@en .
+
+<http://x.github.io/event/2958>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "computer crashes.\n"@en .
+
+<http://x.github.io/event/1302>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "When someone says \"I want a programming language in which I need only\n"@en .
+
+<http://x.github.io/event/8455>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Real Programmers don't eat quiche.  In fact, real programmers don't know how to\n"@en .
+
+<http://x.github.io/event/6077>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "            points.\n"@en .
+
+<http://x.github.io/event/2207>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Genius may have its limitations, but stupidity is not thus\n"@en .
+
+<http://x.github.io/event/7227>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "The brain is a wonderful organ; it starts working the moment you get up\n"@en .
+
+<http://x.github.io/event/3901>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "worst vegetable of next year.\n"@en .
+
+<http://x.github.io/event/703>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "She missed an invaluable opportunity to give him a look that you could\n"@en .
+
+<http://x.github.io/event/9185>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Help a swallow land at Capistrano.\n"@en .
+
+<http://x.github.io/event/7946>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "As Dame Fortune did intend,\n"@en .
+
+<http://x.github.io/event/4884>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "bogglingly big it is.  I mean, you may think it's a long way down the\n"@en .
+
+<http://x.github.io/event/2253>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Peter S. Beagle\n"@en .
+
+<http://x.github.io/event/924>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Acid -- better living through chemistry.\n"@en .
+
+<http://x.github.io/event/5536>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "their destitution of conscience.\n"@en .
+
+<http://x.github.io/event/2940>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Beware of the Turing Tar-pit in which everything is possible but\n"@en .
+
+<http://x.github.io/event/7416>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Mark Twain\n"@en .
+
+<http://x.github.io/event/4354>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "There is no time like the present for postponing what you ought to be\n"@en .
+
+<http://x.github.io/event/3670>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "It's because I try to put every possible syllable into that last line\n"@en .
+
+<http://x.github.io/event/8612>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "A LISP programmer knows the value of everything, but the cost of\n"@en .
+
+<http://x.github.io/event/7637>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Message will arrive in the mail.  Destroy, before the FBI sees it.\n"@en .
+
+<http://x.github.io/event/149>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "You can create your own opportunities this week.  Blackmail a senior\n"@en .
+
+<http://x.github.io/event/8367>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "100 blocks of crud!\n"@en .
+
+<http://x.github.io/event/8114>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "nothing of interest is easy.\n"@en .
+
+<http://x.github.io/event/9310>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Just because your doctor has a name for your condition doesn't mean he\n"@en .
+
+<http://x.github.io/event/8335>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- John O'Hara\n"@en .
+
+<http://x.github.io/event/9738>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Xerox does it again and again and again and ...\n"@en .
+
+<http://x.github.io/event/7107>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "\"Calvin Coolidge was the greatest man who ever came out of Plymouth\n"@en .
+
+<http://x.github.io/event/2806>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        except study for that instructor's course.\n"@en .
+
+<http://x.github.io/event/9784>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "slandered.\n"@en .
+
+<http://x.github.io/event/6178>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "them on the machine they can be patched into working in \"only a few\" 30-hour\n"@en .
+
+<http://x.github.io/event/5914>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "          -- Isaiah\n"@en .
+
+<http://x.github.io/event/1670>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Half Moon tonight.  (At least its better than no Moon at all.)\n"@en .
+
+<http://x.github.io/event/8777>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "miss\n"@en .
+
+<http://x.github.io/event/6612>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        They usually have virgins,\n"@en .
+
+<http://x.github.io/event/8279>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "You might as well live.\n"@en .
+
+<http://x.github.io/event/6114>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Oh, let us never, never doubt\n"@en .
+
+<http://x.github.io/event/5858>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "\"Might as well be frank, monsieur.  It would take a miracle to get you\n"@en .
+
+<http://x.github.io/event/1393>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        The strip revolved,\n"@en .
+
+<http://x.github.io/event/5605>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Is it possible that software is not like anything else, that it is\n"@en .
+
+<http://x.github.io/event/9222>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "system, in which all of its major weaknesses have been exposed,\n"@en .
+
+<http://x.github.io/event/7310>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "Real Programmers don't write application programs; they program right down on\n"@en .
+
+<http://x.github.io/event/8468>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "        Superiority is recessive.\n"@en .
+
+<http://x.github.io/event/8040>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "\"That must be wonderful!  I don't understand it at all.\"\n"@en .
+
+<http://x.github.io/event/3992>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "\"Why isn't there a special name for the tops of your feet?\"\n"@en .
+
+<http://x.github.io/event/6801>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "The earth is like a tiny grain of sand, only much, much heavier.\n"@en .
+
+<http://x.github.io/event/541>
+        a                         <http://schema.org/EventSeries> ;
+        <http://schema.org/name>  "                -- Albert Einstein\n"@en .
+
+}

@@ -1,0 +1,554 @@
+@prefix ex: <http://x.github.io/> .
+@prefix org: <http://www.w3.org/ns/org#> .
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <http://schema.org/> .
+@prefix time: <http://www.w3.org/2006/time#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+@prefix mdr: <http://x.github.io/> .
+
+<#Person>
+    a rr:TriplesMap ;
+
+    rr:logicalTable [ rr:tableName "person" ] ;
+
+    rr:subjectMap [
+        rr:template "http://x.github.io/person/{id}" ;
+        rr:class schema:Person ;
+        rr:graph mdr:person ;
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate schema:name ;
+        rr:objectMap [ 
+            rr:column "name" ; 
+            rr:language "en" ;
+        ] ;
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate schema:subjectOf ;
+        rr:objectMap [ 
+            rr:template "http://x.github.io/license/{license_id}"
+        ] ;
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate schema:streetAddress ;
+        rr:objectMap [
+            rr:template "{address_number} {address_street_name}" ;
+            rr:language "en" ;
+            rr:termType rr:Literal ;
+        ] ;
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate schema:identifier ;
+        rr:objectMap [
+            rr:template "http://x.github.io/ssn/{ssn}" ;
+        ] ;
+    ] ;
+    .
+
+<#DriversLicense>
+    a rr:TriplesMap ;
+
+    rr:logicalTable [ rr:tableName "drivers_license" ] ;
+
+    rr:subjectMap [
+        rr:template "http://x.github.io/license/{id}" ;
+        rr:class mdr:DriversLicense ;
+        rr:graph mdr:drivers-license ;
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate schema:about ;
+        rr:objectMap [ rr:parentTriplesMap <#DriversLicenseHolder> ];
+    ] ;
+
+    .
+
+<#DriversLicenseHolder>
+    a rr:TriplesMap ;
+
+    rr:logicalTable [ rr:tableName "drivers_license" ] ;
+
+    rr:subjectMap [
+        rr:template "_:DriversLicenseHolder{id}" ;
+        rr:class schema:Person ;
+        rr:termType rr:BlankNode ;
+        rr:graph mdr:drivers-license ;
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate mdr:age ;
+        rr:objectMap [
+            rr:column "age" ;
+            rr:datatype xsd:integer ;
+        ] ;
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate schema:height ;
+        rr:objectMap [
+            rr:column "height" ;
+            rr:datatype xsd:integer ;
+        ] ;
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate mdr:eyeColor ;
+        rr:objectMap [
+            rr:column "eye_color" ;
+            rr:language "en" ;
+        ] ;
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate mdr:hairColor ;
+        rr:objectMap [
+            rr:column "hair_color" ;
+            rr:language "en" ;
+        ] ;
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate schema:gender ;
+        rr:objectMap [
+            rr:column "gender" ;
+            rr:language "en" ;
+        ] ;
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate schema:owns ;
+        rr:objectMap [ rr:parentTriplesMap <#Car> ];
+    ] ;
+    .
+
+<#Car>
+    a rr:TriplesMap ;
+
+    rr:logicalTable [ rr:tableName "drivers_license" ] ;
+
+    rr:subjectMap [
+        rr:template "_:DriversLicenseCar{id}" ;
+        rr:class schema:Car ;
+        rr:termType rr:BlankNode ;
+        rr:graph mdr:drivers-license ;
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate schema:brand ;
+        rr:objectMap [
+            rr:column "car_make" ;
+            rr:language "en" ;
+        ] ;
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate schema:model ;
+        rr:objectMap [
+            rr:column "car_model" ;
+            rr:language "en" ;
+        ] ;
+    ] ;
+    .
+
+# Model gym memberships using the organisation ontology
+# https://www.w3.org/TR/vocab-org/
+
+<#GetFitNowMembership>
+    a rr:TriplesMap ;
+
+    rr:logicalTable [ rr:sqlQuery """
+        SELECT 
+            id,
+            person_id,
+            SUBSTR(membership_start_date, 1, 4) || "-" ||
+            SUBSTR(membership_start_date, 5, 2) || "-" ||
+            SUBSTR(membership_start_date, 7, 2) AS membership_start_date,
+            membership_status
+        FROM get_fit_now_member
+    """ ] ;
+
+    rr:subjectMap [
+        rr:template "http://x.github.io/membership/{id}" ;
+        rr:class org:Membership ;
+        rr:graph mdr:gym-membership ;
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate schema:identifier ;
+        rr:objectMap [ 
+            rr:column "id" ;
+        ] ;
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate org:member ;
+        rr:objectMap [ 
+            rr:template "http://x.github.io/person/{person_id}"
+        ] ;
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate org:organization ;
+        rr:objectMap [ 
+            rr:template "http://x.github.io/GetFitNow"
+        ] ;
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate schema:category ;
+        rr:objectMap [
+            rr:column "membership_status" ;
+            rr:language "en" ;
+        ] ;
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate org:memberDuring ;
+        rr:objectMap [ rr:parentTriplesMap <#GetFitNowMembershipDuring> ];
+    ] ;
+    .
+
+<#GetFitNowMembershipDuring>
+    a rr:TriplesMap ;
+
+    rr:logicalTable [ rr:sqlQuery """
+        SELECT 
+            id,
+            person_id,
+            SUBSTR(membership_start_date, 1, 4) || "-" ||
+            SUBSTR(membership_start_date, 5, 2) || "-" ||
+            SUBSTR(membership_start_date, 7, 2) AS membership_start_date,
+            membership_status
+        FROM get_fit_now_member
+    """ ] ;
+
+    rr:subjectMap [
+        rr:template "_:Interval{id}" ;
+        rr:class time:Interval ;
+        rr:termType rr:BlankNode ;
+        rr:graph mdr:gym-membership ;
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate time:hasBeginning ;
+        rr:objectMap [
+            rr:column "membership_start_date" ;
+            rr:datatype xsd:date ;
+        ] ;
+    ] ;
+    .
+
+<#GetFitNowCheckIn>
+    a rr:TriplesMap ;
+
+    rr:logicalTable [ rr:sqlQuery """
+        SELECT 
+            membership_id,
+            SUBSTR(check_in_date, 1, 4) || "-" ||
+            SUBSTR(check_in_date, 5, 2) || "-" ||
+            SUBSTR(check_in_date, 7, 2) AS check_in_date,
+            check_in_time,
+            check_out_time
+        FROM get_fit_now_check_in
+    """ ] ;
+
+    rr:subjectMap [
+        rr:template "http://x.github.io/check-in/{membership_id}/{check_in_date}T{check_in_time}" ;
+        rr:class schema:CheckInAction ;
+        rr:graph mdr:gym-check-in ;
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate schema:agent ;
+        rr:objectMap [ 
+            rr:template "http://x.github.io/membership/{membership_id}"
+        ] ;
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate schema:startDate ;
+        rr:objectMap [ 
+            rr:column "check_in_date" ;
+            rr:datatype xsd:date ;
+        ] ;
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate schema:startTime ;
+        rr:objectMap [ 
+            rr:column "check_in_time" ;
+            rr:datatype xsd:integer ;
+        ] ;
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate schema:endTime ;
+        rr:objectMap [ 
+            rr:column "check_out_time" ;
+            rr:datatype xsd:integer ;
+        ] ;
+    ] ;
+    .
+
+<#FacebookEventCheckIn>
+    a rr:TriplesMap ;
+
+    rr:logicalTable [ rr:sqlQuery """
+        SELECT 
+            person_id,
+            event_id,
+            SUBSTR(date, 1, 4) || "-" ||
+            SUBSTR(date, 5, 2) || "-" ||
+            SUBSTR(date, 7, 2) AS date
+        FROM facebook_event_checkin
+    """ ] ;
+
+    rr:subjectMap [
+        rr:template "http://x.github.io/check-in/{person_id}/{event_id}/{date}" ;
+        rr:class schema:RsvpAction ;
+        rr:graph mdr:event-rsvp ;
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate schema:agent ;
+        rr:objectMap [ 
+            rr:template "http://x.github.io/person/{person_id}"
+        ] ;
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate schema:event ;
+        rr:objectMap [ 
+            rr:template "http://x.github.io/event/{event_id}/{date}"
+        ] ;
+    ] ;
+    .
+
+<#FacebookEventCheckInEvent>
+    a rr:TriplesMap ;
+
+    rr:logicalTable [ rr:sqlQuery """
+        SELECT 
+            person_id,
+            event_id,
+            SUBSTR(date, 1, 4) || "-" ||
+            SUBSTR(date, 5, 2) || "-" ||
+            SUBSTR(date, 7, 2) AS date
+        FROM facebook_event_checkin
+    """ ] ;
+
+    rr:subjectMap [
+        rr:template "http://x.github.io/event/{event_id}/{date}" ;
+        rr:class schema:Event ;
+        rr:graph mdr:event ;
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate schema:superEvent ;
+        rr:objectMap [ 
+            rr:template "http://x.github.io/event/{event_id}"
+        ] ;
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate schema:attendee ;
+        rr:objectMap [ 
+            rr:template "http://x.github.io/person/{person_id}"
+        ] ;
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate schema:startDate ;
+        rr:objectMap [ 
+            rr:column "date" ;
+            rr:datatype xsd:date ;
+        ] ;
+    ] ;
+    .
+
+<#FacebookEventCheckInEventSeries>
+    a rr:TriplesMap ;
+
+    rr:logicalTable [ rr:sqlQuery """
+        SELECT event_id, event_name
+        FROM facebook_event_checkin
+        GROUP BY event_id
+    """ ] ;
+
+    rr:subjectMap [
+        rr:template "http://x.github.io/event/{event_id}" ;
+        rr:class schema:EventSeries ;
+        rr:graph mdr:event-series ;
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate schema:name ;
+        rr:objectMap [ 
+            rr:column "event_name" ;
+            rr:language "en" ;
+        ] ;
+    ] ;
+    .
+
+<#Interview>
+    a rr:TriplesMap ;
+
+    rr:logicalTable [ rr:tableName "interview" ] ;
+
+    rr:subjectMap [
+        rr:template "http://x.github.io/interview/{person_id}" ;
+        rr:class schema:Statement ;
+        rr:graph mdr:interview ;
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate schema:author ;
+        rr:objectMap [ 
+            rr:template "http://x.github.io/person/{person_id}"
+        ] ;
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate schema:text ;
+        rr:objectMap [ 
+            rr:column "transcript" ;
+            rr:language "en" ;
+        ] ;
+    ] ;
+    .
+
+<#Income>
+    a rr:TriplesMap ;
+
+    rr:logicalTable [ rr:tableName "income" ] ;
+
+    rr:subjectMap [
+        rr:template "_:Income{ssn}" ;
+        rr:class schema:Person ;
+        rr:termType rr:BlankNode ;
+        rr:graph mdr:income ;
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate schema:identifier ;
+        rr:objectMap [
+            rr:template "http://x.github.io/ssn/{ssn}" ;
+        ] ;
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate schema:baseSalary ;
+        rr:objectMap [
+            rr:column "annual_income" ;
+            rr:datatype xsd:integer ;
+        ] ;
+    ] ;
+    .
+
+<#IncomeSSN>
+    a rr:TriplesMap ;
+
+    rr:logicalTable [ rr:tableName "income" ] ;
+
+    rr:subjectMap [
+        rr:template "http://x.github.io/ssn/{ssn}" ;
+        rr:class mdr:SocialSecurityNumber ;
+        rr:graph mdr:income ;
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate schema:value ;
+        rr:objectMap [
+            rr:column "ssn" ;
+            rr:datatype xsd:integer
+        ] ;
+    ] ;
+    .
+
+<#CrimeSceneReport>
+    a rr:TriplesMap ;
+
+    rr:logicalTable [ rr:sqlQuery """
+        SELECT 
+            SUBSTR(date, 1, 4) || "-" ||
+            SUBSTR(date, 5, 2) || "-" ||
+            SUBSTR(date, 7, 2) AS date,
+            REPLACE(LOWER(city), " ", "-") AS city,
+            city AS city_label,
+            type,
+            description
+        FROM crime_scene_report
+    """ ] ;
+
+    rr:subjectMap [
+        rr:template "_:{date}{city}{type}{description}" ;
+        rr:class schema:Report ;
+        rr:termType rr:BlankNode ;
+        rr:graph mdr:crime-scene-report ;
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate schema:dateCreated ;
+        rr:objectMap [
+            rr:column "date" ;
+            rr:datatype xsd:date ;
+        ] ;
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate schema:spatialCoverage ;
+        rr:objectMap  [ rr:parentTriplesMap <#ReportLocation> ];
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate schema:category ;
+        rr:objectMap [
+            rr:column "type" ;
+            rr:language "en" ;
+        ] ;
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate schema:articleBody ;
+        rr:objectMap [
+            rr:column "description" ;
+            rr:language "en" ;
+        ] ;
+    ] ;
+    .
+
+<#ReportLocation>
+    a rr:TriplesMap ;
+
+    rr:logicalTable [ rr:sqlQuery """
+        SELECT 
+            SUBSTR(date, 1, 4) || "-" ||
+            SUBSTR(date, 5, 2) || "-" ||
+            SUBSTR(date, 7, 2) AS date,
+            REPLACE(LOWER(city), " ", "-") AS city,
+            city AS city_label,
+            type,
+            description
+        FROM crime_scene_report
+    """ ] ;
+
+    rr:subjectMap [
+        rr:template "http://x.github.io/location/{city}" ;
+        rr:class schema:Place ;
+        rr:graph mdr:crime-scene-report ;
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate schema:name ;
+        rr:objectMap [
+            rr:column "city_label" ;
+            rr:language "en" ;
+        ] ;
+    ] ;
+    .
